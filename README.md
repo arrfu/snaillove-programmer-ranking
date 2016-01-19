@@ -1,6 +1,8 @@
 # snaillove-programmer-ranking
 
-#### Blog Ranking
+### Blog Ranking
+
+#### Season One (? - 2016/01/19)
 
 |Total Rank|Programmer|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking
 |---|---|---|---|---|---|---|
