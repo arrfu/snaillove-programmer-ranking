@@ -32,8 +32,8 @@ Note:
 
 |Total Rank|Programmer Github|Personal Repositories|Stars Per Repository|Forks Per Repository|Followers|Starred|Gist
 |---|---|---|---|---|---|---|---|
-|#1|[@chiemy](http://github.com/chiemy)|46|22|9|89|152|10
-|||||||
+|#1|[@chiemy](http://github.com/chiemy)|46|21.4|8.4|89|152|10
+|#2|[@ifeegoo](http://github.com/ifeegoo)|11|0.2|0.1|25|452|0
 |||||||
 |||||||
 |||||||
@@ -43,6 +43,9 @@ Note:
 |||||||
 |||||||
 
+Note:
+
+1.One of the most important factor of the ranking of Github above,is that the Repositories you contributes but not owned by you,because of the method of statistics,we don't add this right now!
 
 #### Stack Overflow Ranking
 
