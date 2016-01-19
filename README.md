@@ -49,11 +49,15 @@ Note:
 
 #### Stack Overflow Ranking
 
-|Total Rank|Stack Overflow|Personal Repositories|Stars Per Repository|Forks Per Repository|Followers|Starred|Gist
-|---|---|---|---|---|---|---|---|
+|Total Rank|Stack Overflow|Total Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached
+|---|---|---|---|---|---|---|---|---|
+|#1|[@ifeegoo](http://github.com/ifeegoo)|11|0.2|0.1|25|452|0
+
+
+
 |#1|[@chiemy](http://github.com/chiemy)|46|21.4|8.4|89|152|10
 |#2|[@Jackwaiting](http://github.com/jackwaiting)|9|0.8|0.1|13|15|0
-|#3|[@ifeegoo](http://github.com/ifeegoo)|11|0.2|0.1|25|452|0
+
 |#4|[@misparking](http://github.com/misparking)|4|0|0|7|14|0
 |#5|[@subvin](http://github.com/subvin)|4|0|0|5|2|0
 |#6|[@fiskz](http://github.com/fiskz)|1|0|0|10|80|0
