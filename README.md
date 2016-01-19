@@ -5,9 +5,10 @@
 |Total Rank|Programmer|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking
 |---|---|---|---|---|---|---|
 |#1|ifeegoo|http://www.ifeegoo.com|39|85|N/A|15786805
-|#2|chiemy|http://www.chiemy.com|42|49|N/A|N/A
-|#3|misparking|http://www.misparking.com|10|N/A|N/A|N/A
-|#4|chenyunxuan|http://www.chenyunxuan.com|9|0|N/A|N/A
+|#2|chiemy|http://chiemy.com|42|49|N/A|N/A
+|#3|fiskz|http://fiskz.com|6|12|N/A|N/A
+|#4|misparking|http://www.misparking.com|10|N/A|N/A|N/A
+|#5|chenyunxuan|http://www.chenyunxuan.com|9|0|N/A|N/A
 
 
 
