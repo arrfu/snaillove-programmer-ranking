@@ -16,8 +16,11 @@
 
 Note:
 1.Jackwaiting or jackWaiting or jackwaiting? Upper case or lower case,it's a problem!
+
 2.misparking,pay attention to your website's `robots.txt`,it disallows all!
+
 3.chenyunxuan,why you have got 0 in Google Index?
+
 
 #### Github Ranking
 
