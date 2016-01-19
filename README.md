@@ -30,8 +30,19 @@ Note:
 
 #### Github Ranking
 
-|Rank|Programmer|Website|仓库|Google Index|Google PR|Alexa Ranking
-|---|---|---|---|---|---|---|
+|Total Rank|Programmer Github|Personal Repositories|Stars Per Repository|Forks Per Repository|Followers|Starred|Gist
+|---|---|---|---|---|---|---|---|
+|#1|[@chiemy](http://github.com/chiemy)|46|22|9|89|152|10
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+
 
 #### Stack Overflow Ranking
 
