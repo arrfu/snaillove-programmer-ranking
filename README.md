@@ -33,9 +33,9 @@ Note:
 |Total Rank|Programmer Github|Personal Repositories|Stars Per Repository|Forks Per Repository|Followers|Starred|Gist
 |---|---|---|---|---|---|---|---|
 |#1|[@chiemy](http://github.com/chiemy)|46|21.4|8.4|89|152|10
-|#2|[@ifeegoo](http://github.com/ifeegoo)|11|0.2|0.1|25|452|0
-|||||||
-|||||||
+|#|[@ifeegoo](http://github.com/ifeegoo)|11|0.2|0.1|25|452|0
+|#|[@Jackwaiting](http://github.com/jackwaiting)|9|0.8|0.1|13|0
+|#|[@fiskz](http://github.com/fiskz)|1|0|0|10|0
 |||||||
 |||||||
 |||||||
