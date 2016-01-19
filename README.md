@@ -33,14 +33,14 @@ Note:
 |Total Rank|Programmer Github|Personal Repositories|Stars Per Repository|Forks Per Repository|Followers|Starred|Gist
 |---|---|---|---|---|---|---|---|
 |#1|[@chiemy](http://github.com/chiemy)|46|21.4|8.4|89|152|10
-|#|[@ifeegoo](http://github.com/ifeegoo)|11|0.2|0.1|25|452|0
 |#|[@Jackwaiting](http://github.com/jackwaiting)|9|0.8|0.1|13|15|0
-|#|[@fiskz](http://github.com/fiskz)|1|0|0|10|80|0
+|#|[@ifeegoo](http://github.com/ifeegoo)|11|0.2|0.1|25|452|0
 |#|[@misparking](http://github.com/misparking)|4|0|0|7|14|0
 |#|[@subvin](http://github.com/subvin)|4|0|0|5|2|0
+|#|[@fiskz](http://github.com/fiskz)|1|0|0|10|80|0
 |#|[@iOnesmile](http://github.com/iOnesmile)|1|0|0|7|12|0
-|#|[@chenyunxuan](http://github.com/chenyunxuan)|0|0|0|8|9|0
 |#|[@arrfu](http://github.com/arrfu)|1|0|0|2|9|0
+|#|[@chenyunxuan](http://github.com/chenyunxuan)|0|0|0|8|9|0
 |#|[@luyonghe](http://github.com/luyonghe)|0|0|0|4|0|0
 
 Note:
