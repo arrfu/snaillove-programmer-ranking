@@ -30,6 +30,8 @@ Note:
 
 #### Github Ranking
 
+#### Season One (? - 2016/01/19)
+
 |Total Rank|Github|Personal Repositories|Stars Per Repository|Forks Per Repository|Followers|Starred|Gist
 |---|---|---|---|---|---|---|---|
 |#1|[@chiemy](http://github.com/chiemy)|46|21.4|8.4|89|152|10
@@ -49,28 +51,38 @@ Note:
 
 #### Stack Overflow Ranking
 
+#### Season One (? - 2016/01/19)
+
 |Total Rank|Stack Overflow|Total Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached
 |---|---|---|---|---|---|---|---|---|
 |#1|[@ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|700|1|4|16|54|3|191K
-|#9|[@chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|8|0|0|1|0|1|23
-|#7|[@iOnesmile](http://stackoverflow.com/users/5470510/ionesmile)|1|0|0|2|0|0|9
-|#2|[@Jackwaiting](https://stackoverflow.com/users/5470345/jackwaiting)|1|0|0|2|0|0|0
-|#8|[@arrfu](http://stackoverflow.com/users/5471377/arrfu)|1|0|0|1|0|0|0
-|#4|[@misparking](http://stackoverflow.com/users/5299868/misparking)|1|0|0|1|0|0|0
-|#5|[@subvin](http://stackoverflow.com/users/5467900/subvin)|1|0|0|0|0|0|0
-|#6|[@fiskz](http://stackoverflow.com/users/5469824/fiskz)|1|0|0|0|0|0|0
-|#10|[@luyonghe](http://stackoverflow.com/users/5482463/yonghelu)|1|0|0|0|0|0|0
-|#1|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|1|0|0|0|0|0|0
+|#2|[@chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|8|0|0|1|0|1|23
+|#3|[@iOnesmile](http://stackoverflow.com/users/5470510/ionesmile)|1|0|0|2|0|0|9
+|#4|[@Jackwaiting](https://stackoverflow.com/users/5470345/jackwaiting)|1|0|0|2|0|0|0
+|#5|[@arrfu](http://stackoverflow.com/users/5471377/arrfu)|1|0|0|1|0|0|0
+|#6|[@misparking](http://stackoverflow.com/users/5299868/misparking)|1|0|0|1|0|0|0
+|#7|[@subvin](http://stackoverflow.com/users/5467900/subvin)|1|0|0|0|0|0|0
+|#8|[@fiskz](http://stackoverflow.com/users/5469824/fiskz)|1|0|0|0|0|0|0
+|#9|[@luyonghe](http://stackoverflow.com/users/5482463/yonghelu)|1|0|0|0|0|0|0
+|#10|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|1|0|0|0|0|0|0
 
-
-
-
-
-
-
-
-
-
+Note:
+1.500 reputation for you is better!
 
 #### Zhihu Ranking
+
+#### Season One (? - 2016/01/19)
+
+|总排行|知乎|赞同数|感谢数|关注者|回答数|提问数
+|---|---|---|---|---|---|---
+|#1|[@ifeegoo](https://www.zhihu.com/people/ifeegoo)|29|5|12|17|4
+|#9|[@chenyunxuan](https://www.zhihu.com/people/chen-yun-xuan-29)|0|0|6|0|0
+|#7|[@iOnesmile](http://stackoverflow.com/users/5470510/ionesmile)|||||
+|#2|[@Jackwaiting](https://stackoverflow.com/users/5470345/jackwaiting)|||||
+|#8|[@arrfu](http://stackoverflow.com/users/5471377/arrfu)|||||
+|#4|[@misparking](http://stackoverflow.com/users/5299868/misparking)|||||
+|#5|[@subvin](http://stackoverflow.com/users/5467900/subvin)|||||
+|#6|[@fiskz](http://stackoverflow.com/users/5469824/fiskz)|||||
+|#10|[@luyonghe](http://stackoverflow.com/users/5482463/yonghelu)|||||
+|#1|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|||||
 
