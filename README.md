@@ -2,7 +2,7 @@
 
 备注：以下排行榜是为了激励大家“积累”几个对于程序员比较重要的东西，每个月会出一季排名，第一季的排名出的比较急，目前是纯手工统计数据，会写脚本自动抓取的同学可以处理下一期的排名。猿们，加油了！
 
-### Blog Ranking
+### Blog Ranking  (weight ＝ 50%)
 
 #### Season One (? - 2016/01/19)
 
@@ -36,7 +36,7 @@ Note:
 **个人的技术博客的积累是非常非常的重要，不仅是记录你平时工作或者其它方面的总结，也是你个人能力的一种体现，还有就是“让别人看到”你的能力！**
 
 
-#### Github Ranking
+#### Github Ranking (weight ＝ 25%)
 
 #### Season One (? - 2016/01/19)
 
@@ -64,7 +64,7 @@ Note:
 
 **Linus大神说过“Talk is cheap,show me the code!”，所以Github就是用来 show me the code 的！**
 
-#### Stack Overflow Ranking
+#### Stack Overflow Ranking (weight ＝ 20%)
 
 #### Season One (? - 2016/01/19)
 
@@ -87,12 +87,9 @@ Note:
 
 2.只要你真正用心，以大家现有的技术和英文能力，大家是可以在Stack Overflow上很快的获得一定量的Reputation的，可以参考我在知乎上的一篇回答：[如何在stack overflow上获得更多积分？](https://www.zhihu.com/question/20747136/answer/79010239)
 
-**说过这样的一句话：在国外，Stack Overflow 上的Reputation值，在面试的过程中，是硬通货！虽然有些夸张，但也说明了你在Stack Overflow社区的影响力，对你自己本身的影响！Stack Overflow 上的Reputation值，既是你技术**
+**说过这样的一句话：在国外，Stack Overflow 上的Reputation值，在面试的过程中，是硬通货！虽然有些夸张，但也说明了你在Stack Overflow社区的影响力，对你自己本身的影响！Stack Overflow 上的Reputation值，既是你技术能力的体现，也是你English能力的展现，English能力是程序员最重要能力的能力之一！**
 
-****
-
-
-#### Zhihu Ranking
+#### Zhihu Ranking (weight ＝ %5)
 
 #### Season One (? - 2016/01/19)
 
@@ -109,7 +106,4 @@ Note:
 |#9|[@luyonghe](https://www.zhihu.com/people/yonghelu)|0|0|1|0|0
 |#10|[@misparking](https://www.zhihu.com/people/misparking)|0|0|1|0|0
 
-
-
-
-
+**知乎是一个不错的问答社区，无论程序员关注的技术还是其它方面，都有不错的问题和回答，建议大家多逛逛技术和技术意外的不错的问题和答案，对于你的综合能力的提升比较有帮助，另外也可以回答和提出相关的质量较高的问题，这个也能体现出你的综合能力！知乎在百度的索引中权重比较高，大家可以从搜索自己的ID可以看出来，知乎的排名！**
