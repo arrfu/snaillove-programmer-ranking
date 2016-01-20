@@ -1,5 +1,7 @@
 # snaillove-programmer-ranking
 
+备注：以下排行榜是为了激励大家“积累”几个对于程序员比较重要的东西，每个月会出一季排名，第一季的排名出的比较急，目前是纯手工统计数据，会写脚本自动抓取的同学可以处理下一期的排名。猿们，加油了！
+
 ### Blog Ranking
 
 #### Season One (? - 2016/01/19)
@@ -19,13 +21,19 @@
 
 Note:
 
-1.Jackwaiting or jackWaiting or jackwaiting? iOnesmile or ionesmile ? Upper case or lower case,it's a problem!
+1.张刚和王瑞的ID请自己声明下，到底是什么样的，大小写其实是不一样的！Jackwaiting or jackWaiting or jackwaiting? iOnesmile or ionesmile ? 这是一个问题。
 
-2.misparking,pay attention to your website's `robots.txt`,it disallows all!
+2.misparking:请注意下你网站的 `robots.txt`,里面的配置是禁止搜索引擎索引任何数据！
 
-3.chenyunxuan,why you have got 0 in Google Index?
+3.chenyunxuan:你的Google Index为什么是0，是不是配置有问题？
 
-4.iOnesmile,please remove the related content about chiemy!
+4.王瑞：你的博客应该是采用的chiemy的博客主题，但是有些内容没有完全移除掉，还是chiemy的，注意移除掉不是自己的内容！
+
+5.大家注意自己的博客数据的备份，还有独立网站的SEO！
+
+6.建议张刚采用独立的域名，整一个独立的博客，无论是用Github来挂自己的博客，还是Wordpress + 独立服务器，都是一个不错的选择！
+
+**个人的技术博客的积累是非常非常的重要，不仅是记录你平时工作或者其它方面的总结，也是你个人能力的一种体现，还有就是“让别人看到”你的能力！**
 
 
 #### Github Ranking
@@ -67,7 +75,9 @@ Note:
 |#10|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|1|0|0|0|0|0|0
 
 Note:
+
 1.500 reputation for you is better!
+
 2.[如何在stack overflow上获得更多积分？](https://www.zhihu.com/question/20747136/answer/79010239)
 
 #### Zhihu Ranking
