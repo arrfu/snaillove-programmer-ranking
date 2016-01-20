@@ -27,7 +27,7 @@ Note:
 
 3.chenyunxuan:你的Google Index为什么是0，是不是配置有问题？
 
-4.王瑞：你的博客应该是采用的chiemy的博客主题，但是有些内容没有完全移除掉，还是chiemy的，注意移除掉不是自己的内容！
+4.王瑞：你的博客应该是采用的chiemy的博客主题，但是有些内容还是chiemy的，注意移除掉不是自己的内容！
 
 5.大家注意自己的博客数据的备份，还有独立网站的SEO！
 
@@ -55,7 +55,14 @@ Note:
 
 Note:
 
-1.One of the most important factor of the ranking of Github above,is that the Repositories you contributes but not owned by you,because of the method of statistics,we don't add this right now!
+1.关于Github的排名，另外有一个非常重要的因素没有统计进去，就是你贡献了不属于你自己账户底下的项目，由于数据统计方法的问题，暂时没有加入！
+
+2.大家多去看看 [@chiemy](http://github.com/chiemy)的Github，我们的Github要像他那样，才算真正的有干货！
+
+3.不要觉得自己在Github上开源的项目不够好，代码比较烂，等自己能力提升了再来做这个事情，这是要等到猴年马月？不过猴年马月也快要到了。尽管去做，哪怕一个小的技巧，小的工具类，都是值得你自己去写入到Github上面的，这一点上[@arrfu](http://github.com/arrfu)是值得表扬的!
+
+
+**Linus大神说过“Talk is cheap,show me the code!”，所以Github就是用来 show me the code 的！**
 
 #### Stack Overflow Ranking
 
@@ -76,9 +83,14 @@ Note:
 
 Note:
 
-1.500 reputation for you is better!
+1.建议每个人在Stack Overflow上获取不低于500 Reputation！
 
-2.[如何在stack overflow上获得更多积分？](https://www.zhihu.com/question/20747136/answer/79010239)
+2.只要你真正用心，以大家现有的技术和英文能力，大家是可以在Stack Overflow上很快的获得一定量的Reputation的，可以参考我在知乎上的一篇回答：[如何在stack overflow上获得更多积分？](https://www.zhihu.com/question/20747136/answer/79010239)
+
+**说过这样的一句话：在国外，Stack Overflow 上的Reputation值，在面试的过程中，是硬通货！虽然有些夸张，但也说明了你在Stack Overflow社区的影响力，对你自己本身的影响！Stack Overflow 上的Reputation值，既是你技术**
+
+****
+
 
 #### Zhihu Ranking
 
