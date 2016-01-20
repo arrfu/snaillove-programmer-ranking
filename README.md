@@ -4,7 +4,7 @@
 
 ### Blog Ranking  (weight ＝ 50%)
 
-#### Season One (? - 2016/01/19)
+#### Season One (? - 2016/01/20)
 
 |Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking
 |---|---|---|---|---|---|---|
@@ -38,7 +38,7 @@ Note:
 
 #### Github Ranking (weight ＝ 25%)
 
-#### Season One (? - 2016/01/19)
+#### Season One (? - 2016/01/20)
 
 |Total Rank|Github|Personal Repositories|Stars Per Repository|Forks Per Repository|Followers|Starred|Gist
 |---|---|---|---|---|---|---|---|
@@ -66,7 +66,7 @@ Note:
 
 #### Stack Overflow Ranking (weight ＝ 20%)
 
-#### Season One (? - 2016/01/19)
+#### Season One (? - 2016/01/20)
 
 |Total Rank|Stack Overflow|Total Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached
 |---|---|---|---|---|---|---|---|---|
@@ -91,7 +91,7 @@ Note:
 
 #### Zhihu Ranking (weight ＝ %5)
 
-#### Season One (? - 2016/01/19)
+#### Season One (? - 2016/01/20)
 
 |总排行|知乎|赞同数|感谢数|关注者|回答数|提问数
 |---|---|---|---|---|---|---
