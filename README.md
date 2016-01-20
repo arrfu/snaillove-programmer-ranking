@@ -91,7 +91,7 @@ Note:
 
 **听说过这样的一句话：在国外，Stack Overflow 上的Reputation值，在面试的过程中，是硬通货！虽然有些夸张，但也说明了你在Stack Overflow社区的影响力，对你自己本身的影响！Stack Overflow 上的Reputation值，既是你技术能力的体现，也是你English能力的展现，English能力是程序员最重要的能力之一！**
 
-#### Zhihu Ranking (weight ＝ %5)
+#### Zhihu Ranking (weight ＝ 5%)
 
 #### Season One (? - 2016/01/20)
 
