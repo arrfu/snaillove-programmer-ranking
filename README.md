@@ -76,13 +76,17 @@ Note:
 |总排行|知乎|赞同数|感谢数|关注者|回答数|提问数
 |---|---|---|---|---|---|---
 |#1|[@ifeegoo](https://www.zhihu.com/people/ifeegoo)|29|5|12|17|4
+|#7|[@iOnesmile](https://www.zhihu.com/people/iOnesmile)|3|1|5|2|0
+|#8|[@arrfu](https://www.zhihu.com/people/arrfu)|2|3|4|3|4
+|#5|[@subvin](https://www.zhihu.com/people/subvin)|1|0|2|2|0
 |#9|[@chenyunxuan](https://www.zhihu.com/people/chen-yun-xuan-29)|0|0|6|0|0
-|#7|[@iOnesmile](http://stackoverflow.com/users/5470510/ionesmile)|||||
-|#2|[@Jackwaiting](https://stackoverflow.com/users/5470345/jackwaiting)|||||
-|#8|[@arrfu](http://stackoverflow.com/users/5471377/arrfu)|||||
-|#4|[@misparking](http://stackoverflow.com/users/5299868/misparking)|||||
-|#5|[@subvin](http://stackoverflow.com/users/5467900/subvin)|||||
-|#6|[@fiskz](http://stackoverflow.com/users/5469824/fiskz)|||||
-|#10|[@luyonghe](http://stackoverflow.com/users/5482463/yonghelu)|||||
-|#1|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|||||
+|#6|[@fiskz](https://www.zhihu.com/people/wfiskz)|0|0|5|4|1
+|#2|[@Jackwaiting](https://www.zhihu.com/people/jackwaiting)|0|0|3|3|1
+|#1|[@chiemy](https://www.zhihu.com/people/chiemy)|0|0|2|0|0
+|#10|[@luyonghe](https://www.zhihu.com/people/yonghelu)|0|0|1|0|0
+|#4|[@misparking]https://www.zhihu.com/people/misparking)|0|0|1|0|0
+
+
+
+
 
