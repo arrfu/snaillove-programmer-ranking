@@ -89,7 +89,7 @@ Note:
 
 2.只要你真正用心，以大家现有的技术和英文能力，大家是可以在Stack Overflow上很快的获得一定量的Reputation的，可以参考我在知乎上的一篇回答：[如何在stack overflow上获得更多积分？](https://www.zhihu.com/question/20747136/answer/79010239)
 
-**说过这样的一句话：在国外，Stack Overflow 上的Reputation值，在面试的过程中，是硬通货！虽然有些夸张，但也说明了你在Stack Overflow社区的影响力，对你自己本身的影响！Stack Overflow 上的Reputation值，既是你技术能力的体现，也是你English能力的展现，English能力是程序员最重要能力的能力之一！**
+**听说过这样的一句话：在国外，Stack Overflow 上的Reputation值，在面试的过程中，是硬通货！虽然有些夸张，但也说明了你在Stack Overflow社区的影响力，对你自己本身的影响！Stack Overflow 上的Reputation值，既是你技术能力的体现，也是你English能力的展现，English能力是程序员最重要的能力之一！**
 
 #### Zhihu Ranking (weight ＝ %5)
 
