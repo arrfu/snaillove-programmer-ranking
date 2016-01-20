@@ -52,19 +52,24 @@ Note:
 |Total Rank|Stack Overflow|Total Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached
 |---|---|---|---|---|---|---|---|---|
 |#1|[@ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|700|1|4|16|54|3|191K
+|#9|[@chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|8|0|0|1|0|1|23
+|#7|[@iOnesmile](http://stackoverflow.com/users/5470510/ionesmile)|1|0|0|2|0|0|9
+|#2|[@Jackwaiting](https://stackoverflow.com/users/5470345/jackwaiting)|1|0|0|2|0|0|0
+|#8|[@arrfu](http://stackoverflow.com/users/5471377/arrfu)|1|0|0|1|0|0|0
+|#4|[@misparking](http://stackoverflow.com/users/5299868/misparking)|1|0|0|1|0|0|0
+|#5|[@subvin](http://stackoverflow.com/users/5467900/subvin)|1|0|0|0|0|0|0
+|#6|[@fiskz](http://stackoverflow.com/users/5469824/fiskz)|1|0|0|0|0|0|0
+|#10|[@luyonghe](http://stackoverflow.com/users/5482463/yonghelu)|1|0|0|0|0|0|0
+|#1|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|1|0|0|0|0|0|0
 
 
 
-|#1|[@chiemy](http://github.com/chiemy)|46|21.4|8.4|89|152|10
-|#2|[@Jackwaiting](http://github.com/jackwaiting)|9|0.8|0.1|13|15|0
 
-|#4|[@misparking](http://github.com/misparking)|4|0|0|7|14|0
-|#5|[@subvin](http://github.com/subvin)|4|0|0|5|2|0
-|#6|[@fiskz](http://github.com/fiskz)|1|0|0|10|80|0
-|#7|[@iOnesmile](http://github.com/iOnesmile)|1|0|0|7|12|0
-|#8|[@arrfu](http://github.com/arrfu)|1|0|0|2|9|0
-|#9|[@chenyunxuan](http://github.com/chenyunxuan)|0|0|0|8|9|0
-|#10|[@luyonghe](http://github.com/luyonghe)|0|0|0|4|0|0
+
+
+
+
+
 
 
 #### Zhihu Ranking
