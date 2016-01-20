@@ -68,6 +68,7 @@ Note:
 
 Note:
 1.500 reputation for you is better!
+2.[如何在stack overflow上获得更多积分？](https://www.zhihu.com/question/20747136/answer/79010239)
 
 #### Zhihu Ranking
 
@@ -76,15 +77,15 @@ Note:
 |总排行|知乎|赞同数|感谢数|关注者|回答数|提问数
 |---|---|---|---|---|---|---
 |#1|[@ifeegoo](https://www.zhihu.com/people/ifeegoo)|29|5|12|17|4
-|#7|[@iOnesmile](https://www.zhihu.com/people/iOnesmile)|3|1|5|2|0
-|#8|[@arrfu](https://www.zhihu.com/people/arrfu)|2|3|4|3|4
-|#5|[@subvin](https://www.zhihu.com/people/subvin)|1|0|2|2|0
-|#9|[@chenyunxuan](https://www.zhihu.com/people/chen-yun-xuan-29)|0|0|6|0|0
-|#6|[@fiskz](https://www.zhihu.com/people/wfiskz)|0|0|5|4|1
-|#2|[@Jackwaiting](https://www.zhihu.com/people/jackwaiting)|0|0|3|3|1
-|#1|[@chiemy](https://www.zhihu.com/people/chiemy)|0|0|2|0|0
-|#10|[@luyonghe](https://www.zhihu.com/people/yonghelu)|0|0|1|0|0
-|#4|[@misparking]https://www.zhihu.com/people/misparking)|0|0|1|0|0
+|#2|[@iOnesmile](https://www.zhihu.com/people/iOnesmile)|3|1|5|2|0
+|#3|[@arrfu](https://www.zhihu.com/people/arrfu)|2|3|4|3|4
+|#4|[@subvin](https://www.zhihu.com/people/subvin)|1|0|2|2|0
+|#5|[@fiskz](https://www.zhihu.com/people/wfiskz)|0|0|5|4|1
+|#6|[@Jackwaiting](https://www.zhihu.com/people/jackwaiting)|0|0|3|3|1
+|#7|[@chenyunxuan](https://www.zhihu.com/people/chen-yun-xuan-29)|0|0|6|0|0
+|#8|[@chiemy](https://www.zhihu.com/people/chiemy)|0|0|2|0|0
+|#9|[@luyonghe](https://www.zhihu.com/people/yonghelu)|0|0|1|0|0
+|#10|[@misparking](https://www.zhihu.com/people/misparking)|0|0|1|0|0
 
 
 
