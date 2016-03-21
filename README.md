@@ -16,8 +16,9 @@
 |#6|misparking|http://www.misparking.com|10|N/A|N/A|N/A
 |#7|chenyunxuan|http://www.chenyunxuan.com|9|0|N/A|N/A
 |#8|iOnesmile|http://www.ionesmile.com|8|0|N/A|N/A
-|#9|subvin|http://www.subvin.com|0|0|N/A|N/A
-|#10|luyonghe|N/A|N/A|N/A|N/A|N/A
+|#9|火爆大头菜|http://www.jianshu.com/users/f0040a970739/|2|0|N/A|N/A
+|#10|subvin|http://www.subvin.com|0|0|N/A|N/A
+|#11|luyonghe|N/A|N/A|N/A|N/A|N/A
 
 Note:
 
@@ -82,6 +83,7 @@ Note:
 |#8|[@fiskz](http://stackoverflow.com/users/5469824/fiskz)|1|0|0|0|0|0|0
 |#9|[@luyonghe](http://stackoverflow.com/users/5482463/yonghelu)|1|0|0|0|0|0|0
 |#10|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|1|0|0|0|0|0|0
+|#11|[@lihongyuan](http://stackoverflow.com/users/6092271/lihongyuan)|1|0|0|0|0|0|0
 
 Note:
 
@@ -107,5 +109,6 @@ Note:
 |#8|[@chiemy](https://www.zhihu.com/people/chiemy)|0|0|2|0|0
 |#9|[@luyonghe](https://www.zhihu.com/people/yonghelu)|0|0|1|0|0
 |#10|[@misparking](https://www.zhihu.com/people/misparking)|0|0|1|0|0
+|#11|[@li-hong-yuan-54](https://www.zhihu.com/people/li-hong-yuan-54)|0|0|0|0|0
 
 **知乎是一个不错的问答社区，无论程序员关注的技术还是其它方面，都有不错的问题和回答，建议大家多逛逛技术和技术意外的不错的问题和答案，对于你的综合能力的提升比较有帮助，另外也可以回答和提出相关的质量较高的问题，这个也能体现出你的综合能力！知乎在百度的索引中权重比较高，大家可以从搜索自己的ID可以看出来，知乎的排名！**
