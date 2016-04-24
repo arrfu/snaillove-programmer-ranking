@@ -20,7 +20,8 @@
 |#10|subvin|http://www.subvin.com|0|0|N/A|N/A
 |#11|luyonghe|N/A|N/A|N/A|N/A|N/A
 |#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A
-
+|#13|shengfeng.wang|http://shengfeng.wang|N/A|N/A|N/A|N/A
+|#14|huangshuhan|N/A|N/A|N/A|N/A|N/A
 Note:
 
 1.张刚和王瑞的ID请自己声明下，到底是什么样的，大小写其实是不一样的！Jackwaiting or jackWaiting or jackwaiting? iOnesmile or ionesmile ? 这是一个问题。
@@ -58,7 +59,6 @@ Note:
 |#10|[@luyonghe](http://github.com/luyonghe)|0|0|0|4|0|0
 |#11|[@Jay008](https://github.com/Jay008)|0|0|0|0|0|0
 |#12|[@lhypro](https://github.com/lhypro)|0|0|0|0|0|0
-
 Note:
 
 1.关于Github的排名，另外有一个非常重要的因素没有统计进去，就是你贡献了不属于你自己账户底下的项目，由于数据统计方法的问题，暂时没有加入！
