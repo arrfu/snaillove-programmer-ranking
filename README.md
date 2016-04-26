@@ -20,9 +20,7 @@
 |#10|subvin|http://www.subvin.com|0|0|N/A|N/A
 |#11|luyonghe|N/A|N/A|N/A|N/A|N/A
 |#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A
-|#13|shengfeng.wang|http://shengfeng.wang|N/A|N/A|N/A|N/A
-|#14|huangshuhan|N/A|N/A|N/A|N/A|N/A
-|#15|caizhuoyue|N/A|N/A|N/A|N/A|N/A
+|#13|huangshuhan|N/A|N/A|N/A|N/A|N/A
 
 Note:
 
@@ -62,8 +60,6 @@ Note:
 |#11|[@Jay008](https://github.com/Jay008)|0|0|0|0|0|0
 |#12|[@lhypro](https://github.com/lhypro)|0|0|0|0|0|0
 |#13|[@huangshuhan](https://github.com/huangshuhan)|0|0|0|0|0|0
-|#14|[@loveuqian](https://github.com/loveuqian)|0|0|0|0|0|0
-|#15|[@TalentsCZY](https://github.com/TalentsCZY)|0|0|0|0|0|0
 
 Note:
 
