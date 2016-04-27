@@ -1,8 +1,8 @@
 # snaillove-programmer-ranking
 
-
-
 ***
+本期程序猿排行榜已出，本次的排行榜除了博客的由[@ifeegoo](http://github.com/ifeegoo)整理之外，其他的全部由我们的[@subvin](http://github.com/subvin)同学通过Python脚本全自动抓取，并且生成排行榜列表，
+
 
 ### Blog Ranking  (weight ＝ 50%)
 
@@ -20,8 +20,8 @@
 |#8|iOnesmile|http://www.ionesmile.com|10|14|N/A|N/A
 |#9|火爆大头菜|http://www.jianshu.com/users/f0040a970739/|2|0|N/A|N/A
 |#10|subvin|http://www.subvin.com|0|0|N/A|N/A
-|#11|luyonghe|N/A|N/A|N/A|N/A|N/A
 |#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A
+|#11|luyonghe|N/A|N/A|N/A|N/A|N/A
 |#13|huangshuhan|N/A|N/A|N/A|N/A|N/A
 
 Note:
@@ -33,7 +33,7 @@ Note:
 
 #### Season One (2016/01/21 - 2016/04/27)
 
-|Total Ranking|ID|followers|Starred|Following|Organizations|Last Year Contributons|Longest Streak|Current Streak|Repositories|Stars Per Repository    
+|Total Ranking|ID|Followers|Starred|Following|Organizations|Last Year Contributons|Longest Streak|Current Streak|Repositories|Stars Per Repository    
 |---|---|---|---|---|---|---|---|---|---|---|    
 |#1|[@chiemy](https://www.github.com/chiemy)|103|215|16|3|229|9 days|0 days|146|7.56164383562    
 |#2|[@jackwaiting](https://www.github.com/jackwaiting)|20|29|13|3|76|5 days|2 days|16|0.9375    
@@ -50,8 +50,8 @@ Note:
 |#13|[@huangshuhan](https://www.github.com/huangshuhan)|1|0|0|3|0|0 days|0 days|2|0.0    
 
 
-Note:
-
+Note:  
+1.排名权重优先级：Stars Per Repository > Followers > Last Year Contributons > Repositories
 
 #### Stack Overflow Ranking (weight ＝ 20%)
 
@@ -59,7 +59,7 @@ Note:
 
 |Total Ranking|ID|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
 |---|---|---|---|---|---|---|---|---|---|    
-|#1|[@2531888/ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|790|1|4|17|54|3|~228k|top 29% this quarter    
+|#1|[@2531888/ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|790|1|4|17|54|3|~228k|top 29%    
 |#2|[@5471377/arrfu](http://stackoverflow.com/users/5471377/arrfu)|29|0|0|2|2|0|~117|0    
 |#3|[@5469727/chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|6|0|0|2|1|1|~24|0    
 |#4|[@5470510/ionesmile](http://stackoverflow.com/users/5470510/ionesmile)|1|0|0|2|0|1|~42|0    
@@ -74,7 +74,8 @@ Note:
 |#13|[@6143536/huangshuhan](http://stackoverflow.com/users/6143536/huangshuhan)|1|0|0|0|0|0|0|0    
 
 
-Note:
+Note:  
+1.排名权重优先级:Reputation > Gold Badges > Silver Badges > Bronze Badges > People Reached > Have Title? 
 
 
 #### Zhihu Ranking (weight ＝ 5%)
@@ -97,8 +98,8 @@ Note:
 |#12|[@huangshuhan](https://www.zhihu.com/people/huangshuhan)|0|0|0|0|0|0|1|1|0|3 |15    
 |#13|[@lanjie](https://www.zhihu.com/people/lan-jie-82-66)|0|0|0|0|0|0|1|1|0|8 |13    
 
-Note:
-
+Note:  
+1.排名权重：赞同数 > 感谢数 > 收藏 > 关注者 > 个人主页被浏览次数
 
 
 ***
