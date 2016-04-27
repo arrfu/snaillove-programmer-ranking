@@ -68,7 +68,9 @@ Note:
 Note:  
 1.排名权重优先级：Stars Per Repository > Followers > Last Year Contributons > Repositories  
 2.前两名依然由@chiemy和@jackwaiting把持，并且@chiemy遥遥领先，@wfiskz和@chenyunxuan分别上升到第3位和第5位。其他人变化不大。  
-3.大家多向@chiemy学习下，将自己的Github影响力提升！
+3.大家多向@chiemy学习下，将自己的Github影响力提升！也请我们的@chiemy给我们提供一些经验！
+
+**Linus大神说过“Talk is cheap,show me the code!”，所以Github就是用来 show me the code 的！**
 
 #### Stack Overflow Ranking (weight ＝ 20%)
 
@@ -90,13 +92,14 @@ Note:
 |#12|[@6092271/lihongyuan](http://stackoverflow.com/users/6092271/lihongyuan)|1|0|0|0|0|0|0|0    
 |#13|[@6143536/huangshuhan](http://stackoverflow.com/users/6143536/huangshuhan)|1|0|0|0|0|0|0|0    
 
-
 Note:  
 1.排名权重优先级:Reputation > Gold Badges > Silver Badges > Bronze Badges > People Reached > Have Title?  
-2.目前@ifeegoo排名第一，并且遥遥领先，请参照@ifeegoo的“刷分”秘籍:[如何在Stack Overflow上获得更多积分？](https://www.zhihu.com/question/20747136/answer/79010239)  
+2.目前Stack Overflow排名，@ifeegoo排名第一，并且遥遥领先，请参照@ifeegoo的“刷分”秘籍:[如何在Stack Overflow上获得更多积分？](https://www.zhihu.com/question/20747136/answer/79010239)  
 3.本次特别表扬@arrfu同学，这次的Reputation值已经达到了29，相比于上一个赛季，提升很大！希望继续保持下去！  
 4.@chenyunxuan，你上次Reputation是8，这次反而变成了6，我看了下，你回答了一个问题，被别人Downvote了，你可以删除你的答案，然后你的Reputation应该就可以回来了。  
 5.其他的同学也应该尝试的去上面回答一下问题，Stack Overflow的Reputation也是一个非常重要的点！
+
+**听说过这样的一句话：在国外，Stack Overflow 上的Reputation值，在面试的过程中，是硬通货！虽然有些夸张，但也说明了你在Stack Overflow社区的影响力，对你自己本身的影响！Stack Overflow 上的Reputation值，既是你技术能力的体现，也是你English能力的展现，English能力是程序员最重要的能力之一！**
 
 #### Zhihu Ranking (weight ＝ 5%)
 
@@ -119,7 +122,12 @@ Note:
 |#13|[@lanjie](https://www.zhihu.com/people/lan-jie-82-66)|0|0|0|0|0|0|1|1|0|8 |13    
 
 Note:  
-1.排名权重：赞同数 > 感谢数 > 收藏 > 关注者 > 个人主页被浏览次数
+1.排名权重：赞同数 > 感谢数 > 收藏 > 关注者 > 个人主页被浏览次数  
+2.目前知乎排行榜名次基本上没有任何变化，@ifeegoo的赞同数增长了10K多，主要是因为这个回答：[有哪些人堪称「神人」，却不为大众所知？](https://www.zhihu.com/question/39408533/answer/82907604)，想要获取更多的知乎赞同，可以参照这些知乎上的回答：[如何在知乎得到更多的赞？](https://www.zhihu.com/question/22083942)。  
+3.另外@iOnesmile增长了7个赞，@wfiskz和@Jackwaiting也开始有赞同数了。  
+4.看到大家经常逛知乎，也建议大家可以尝试回答各种问题，这个可以锻炼你的思维能力，总结能力，创新能力等。
+
+**知乎是一个不错的问答社区，无论程序员关注的技术还是其它方面，都有不错的问题和回答，建议大家多逛逛技术和技术意外的不错的问题和答案，对于你的综合能力的提升比较有帮助，另外也可以回答和提出相关的质量较高的问题，这个也能体现出你的综合能力！知乎在百度的索引中权重比较高，大家可以从搜索自己的ID可以看出来，知乎的排名！**
 
 
 ***
