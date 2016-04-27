@@ -45,34 +45,27 @@ Note:
 
 #### Github Ranking (weight ＝ 25%)
 
-#### Season One (? - 2016/01/20)
+#### Season One (2016/01/21 - 2016/04/27)
 
-|Total Rank|Github|Personal Repositories|Stars Per Repository|Forks Per Repository|Followers|Starred|Gist
-|---|---|---|---|---|---|---|---|
-|#1|[@chiemy](http://github.com/chiemy)|46|21.4|8.4|89|152|10
-|#2|[@Jackwaiting](http://github.com/jackwaiting)|9|0.8|0.1|13|15|0
-|#3|[@ifeegoo](http://github.com/ifeegoo)|11|0.2|0.1|25|452|0
-|#4|[@misparking](http://github.com/misparking)|4|0|0|7|14|0
-|#5|[@subvin](http://github.com/subvin)|4|0|0|5|2|0
-|#6|[@fiskz](http://github.com/fiskz)|1|0|0|10|80|0
-|#7|[@iOnesmile](http://github.com/iOnesmile)|1|0|0|7|12|0
-|#8|[@arrfu](http://github.com/arrfu)|1|0|0|2|9|0
-|#9|[@chenyunxuan](http://github.com/chenyunxuan)|0|0|0|8|9|0
-|#10|[@luyonghe](http://github.com/luyonghe)|0|0|0|4|0|0
-|#11|[@Jay008](https://github.com/Jay008)|0|0|0|0|0|0
-|#12|[@lhypro](https://github.com/lhypro)|0|0|0|0|0|0
-|#13|[@huangshuhan](https://github.com/huangshuhan)|0|0|0|0|0|0
+|Total Ranking|Id|followers|Starred|Following|Organizations|Last Year Contributons|Longest Streak|Current Streak|Repositories|Stars Per Repository    
+|---|---|---|---|---|---|---|---|---|---|---|    
+|#1|[@chiemy](https://www.github.com/chiemy)|103|215|16|3|229|9 days|0 days|146|7.56164383562    
+|#2|[@jackwaiting](https://www.github.com/jackwaiting)|20|29|13|3|76|5 days|2 days|16|0.9375    
+|#3|[@wfiskz](https://www.github.com/wfiskz)|11|108|12|3|43|1 day|0 days|5|0.4    
+|#4|[@ifeegoo](https://www.github.com/ifeegoo)|36|511|98|8|708|22 days|5 days|28|0.214285714286    
+|#5|[@chenyunxuan](https://www.github.com/chenyunxuan)|14|10|15|3|5|1 day|0 days|5|0.2    
+|#6|[@lhypro](https://www.github.com/lhypro)|3|3|2|3|16|1 day|0 days|8|0.125    
+|#7|[@misparking](https://www.github.com/misparking)|7|23|16|3|74|4 days|0 days|35|0.0857142857143    
+|#8|[@subvin](https://www.github.com/subvin)|8|3|8|3|68|4 days|2 days|15|0.0    
+|#9|[@iOnesmile](https://www.github.com/iOnesmile)|8|27|11|4|12|1 day|0 days|13|0.0    
+|#10|[@luyonghe](https://www.github.com/luyonghe)|5|0|4|2|1|1 day|0 days|1|0.0    
+|#11|[@arrfu](https://www.github.com/arrfu)|4|24|13|3|38|2 days|0 days|15|0.0    
+|#12|[@jarylan](https://www.github.com/jarylan)|3|1|6|3|10|1 day|0 days|4|0.0    
+|#13|[@huangshuhan](https://www.github.com/huangshuhan)|1|0|0|3|0|0 days|0 days|2|0.0    
+
 
 Note:
 
-1.关于Github的排名，另外有一个非常重要的因素没有统计进去，就是你贡献了不属于你自己账户底下的项目，由于数据统计方法的问题，暂时没有加入！
-
-2.大家多去看看 [@chiemy](http://github.com/chiemy)的Github，我们的Github要像他那样，才算真正的有干货！
-
-3.不要觉得自己在Github上开源的项目不够好，代码比较烂，等自己能力提升了再来做这个事情，这是要等到猴年马月？不过猴年马月也快要到了。尽管去做，哪怕一个小的技巧，小的工具类，都是值得你自己去写入到Github上面的，这一点上[@arrfu](http://github.com/arrfu)是值得表扬的!
-
-
-**Linus大神说过“Talk is cheap,show me the code!”，所以Github就是用来 show me the code 的！**
 
 #### Stack Overflow Ranking (weight ＝ 20%)
 
@@ -80,7 +73,7 @@ Note:
 
 |Total Ranking|id|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
 |---|---|---|---|---|---|---|---|---|---|    
-|#1|[@2531888/ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|790|1|4|17|54|3|~228k|0    
+|#1|[@2531888/ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|790|1|4|17|54|3|~228k|top 29% this quarter    
 |#2|[@5471377/arrfu](http://stackoverflow.com/users/5471377/arrfu)|29|0|0|2|2|0|~117|0    
 |#3|[@5469727/chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|6|0|0|2|1|1|~24|0    
 |#4|[@5470510/ionesmile](http://stackoverflow.com/users/5470510/ionesmile)|1|0|0|2|0|1|~42|0    
