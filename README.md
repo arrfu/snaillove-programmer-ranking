@@ -68,7 +68,8 @@ Note:
 Note:  
 1.排名权重优先级：Stars Per Repository > Followers > Last Year Contributons > Repositories  
 2.前两名依然由@chiemy和@jackwaiting把持，并且@chiemy遥遥领先，@wfiskz和@chenyunxuan分别上升到第3位和第5位。其他人变化不大。  
-3.大家多向@chiemy学习下，将自己的Github影响力提升！也请我们的@chiemy给我们提供一些经验！
+3.大家多向@chiemy学习下，将自己的Github影响力提升！也请我们的@chiemy给我们提供一些经验！  
+4.另外，最近@jackwaiting/@subvin/@iOnesmile/@wfiskz在Github上的活跃度大大提高，赞一个！
 
 **Linus大神说过“Talk is cheap,show me the code!”，所以Github就是用来 show me the code 的！**
 
