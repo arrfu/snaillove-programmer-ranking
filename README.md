@@ -1,8 +1,21 @@
 # snaillove-programmer-ranking
 
 ***
-本期程序猿排行榜已出，本次的排行榜除了博客的由[@ifeegoo](http://github.com/ifeegoo)整理之外，其他的全部由我们的[@subvin](http://github.com/subvin)同学通过Python脚本全自动抓取，并且生成排行榜列表，
+本期程序猿排行榜已出，本次的排行榜除了博客的由[@ifeegoo](http://github.com/ifeegoo)整理之外，其他的全部由我们的[@subvin](http://github.com/subvin)同学通过Python脚本全自动抓取，并且生成排行榜列表，具体代码可以参见他的代码 [ProgrammerRanking](https://github.com/subvin/ProgrammerRanking)，我们这里给[@subvin](http://github.com/subvin)同学一个大大的赞！
 
+温馨提醒大家：  
+保持统一的个人ID很重要！  
+保持统一的个人ID很重要！  
+保持统一的个人ID很重要！   
+保持统一的个人ID很重要！  
+保持统一的个人ID很重要！  
+保持统一的个人ID很重要！  
+保持统一的个人ID很重要！  
+保持统一的个人ID很重要！  
+保持统一的个人ID很重要！  
+保持统一的个人ID很重要！
+
+非常、非常、非常、非常、非常、非常、非常、非常、非常、非常重要的事情，说10遍！
 
 ### Blog Ranking  (weight ＝ 50%)
 
@@ -21,13 +34,16 @@
 |#9|火爆大头菜|http://www.jianshu.com/users/f0040a970739/|2|0|N/A|N/A
 |#10|subvin|http://www.subvin.com|0|0|N/A|N/A
 |#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A
-|#11|luyonghe|N/A|N/A|N/A|N/A|N/A
+|#11|luyonghe|http://www.luyonghe.com|N/A|N/A|N/A|N/A
 |#13|huangshuhan|N/A|N/A|N/A|N/A|N/A
 
-Note:
+Note:  
+1.本期博客排名相对于上期排名没有大的变化，大家都更新的比较少，目前是@chenyunxuan与@fiskz的位子互换，其他的均无较大的变化。  
+2.@misparking，你的网站robots.txt文件可能配置有问题，百度有你的网站收录，但是谷歌却没有任何收录，这个非常奇怪。  
+3.@luyonghe，作为iOS的带头大哥，还没有把自己的博客整起来，以后怎么带小弟弟们一起飞？@huangshuhan也是一样，不管是自己弄，还是挂靠再第三方，最重要的事情，就是整起来，整起来！  
+4.大家接下来一期要好好的Update一下自己的博客了，博客的权重很高！
 
 **个人的技术博客的积累是非常非常的重要，不仅是记录你平时工作或者其它方面的总结，也是你个人能力的一种体现，还有就是“让别人看到”你的能力！**
-
 
 #### Github Ranking (weight ＝ 25%)
 
@@ -35,13 +51,13 @@ Note:
 
 |Total Ranking|ID|Followers|Starred|Following|Organizations|Last Year Contributons|Longest Streak|Current Streak|Repositories|Stars Per Repository    
 |---|---|---|---|---|---|---|---|---|---|---|    
-|#1|[@chiemy](https://www.github.com/chiemy)|103|215|16|3|229|9 days|0 days|146|7.56164383562    
-|#2|[@jackwaiting](https://www.github.com/jackwaiting)|20|29|13|3|76|5 days|2 days|16|0.9375    
+|#1|[@chiemy](https://www.github.com/chiemy)|103|215|16|3|229|9 days|0 days|146|7.56 
+|#2|[@jackwaiting](https://www.github.com/jackwaiting)|20|29|13|3|76|5 days|2 days|16|0.94    
 |#3|[@wfiskz](https://www.github.com/wfiskz)|11|108|12|3|43|1 day|0 days|5|0.4    
-|#4|[@ifeegoo](https://www.github.com/ifeegoo)|36|511|98|8|708|22 days|5 days|28|0.214285714286    
+|#4|[@ifeegoo](https://www.github.com/ifeegoo)|36|511|98|8|708|22 days|5 days|28|0.21
 |#5|[@chenyunxuan](https://www.github.com/chenyunxuan)|14|10|15|3|5|1 day|0 days|5|0.2    
-|#6|[@lhypro](https://www.github.com/lhypro)|3|3|2|3|16|1 day|0 days|8|0.125    
-|#7|[@misparking](https://www.github.com/misparking)|7|23|16|3|74|4 days|0 days|35|0.0857142857143    
+|#6|[@lhypro](https://www.github.com/lhypro)|3|3|2|3|16|1 day|0 days|8|0.13    
+|#7|[@misparking](https://www.github.com/misparking)|7|23|16|3|74|4 days|0 days|35|0.08   
 |#8|[@subvin](https://www.github.com/subvin)|8|3|8|3|68|4 days|2 days|15|0.0    
 |#9|[@iOnesmile](https://www.github.com/iOnesmile)|8|27|11|4|12|1 day|0 days|13|0.0    
 |#10|[@luyonghe](https://www.github.com/luyonghe)|5|0|4|2|1|1 day|0 days|1|0.0    
@@ -49,9 +65,10 @@ Note:
 |#12|[@jarylan](https://www.github.com/jarylan)|3|1|6|3|10|1 day|0 days|4|0.0    
 |#13|[@huangshuhan](https://www.github.com/huangshuhan)|1|0|0|3|0|0 days|0 days|2|0.0    
 
-
 Note:  
-1.排名权重优先级：Stars Per Repository > Followers > Last Year Contributons > Repositories
+1.排名权重优先级：Stars Per Repository > Followers > Last Year Contributons > Repositories  
+2.前两名依然由@chiemy和@jackwaiting把持，并且@chiemy遥遥领先，@wfiskz和@chenyunxuan分别上升到第3位和第5位。其他人变化不大。  
+3.大家多向@chiemy学习下，将自己的Github影响力提升！
 
 #### Stack Overflow Ranking (weight ＝ 20%)
 
@@ -59,7 +76,7 @@ Note:
 
 |Total Ranking|ID|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
 |---|---|---|---|---|---|---|---|---|---|    
-|#1|[@2531888/ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|790|1|4|17|54|3|~228k|top 29%    
+|#1|[@2531888/ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|790|1|4|17|54|3|~228k|29%    
 |#2|[@5471377/arrfu](http://stackoverflow.com/users/5471377/arrfu)|29|0|0|2|2|0|~117|0    
 |#3|[@5469727/chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|6|0|0|2|1|1|~24|0    
 |#4|[@5470510/ionesmile](http://stackoverflow.com/users/5470510/ionesmile)|1|0|0|2|0|1|~42|0    
@@ -75,8 +92,11 @@ Note:
 
 
 Note:  
-1.排名权重优先级:Reputation > Gold Badges > Silver Badges > Bronze Badges > People Reached > Have Title? 
-
+1.排名权重优先级:Reputation > Gold Badges > Silver Badges > Bronze Badges > People Reached > Have Title?  
+2.目前@ifeegoo排名第一，并且遥遥领先，请参照@ifeegoo的“刷分”秘籍:[如何在Stack Overflow上获得更多积分？](https://www.zhihu.com/question/20747136/answer/79010239)  
+3.本次特别表扬@arrfu同学，这次的Reputation值已经达到了29，相比于上一个赛季，提升很大！希望继续保持下去！  
+4.@chenyunxuan，你上次Reputation是8，这次反而变成了6，我看了下，你回答了一个问题，被别人Downvote了，你可以删除你的答案，然后你的Reputation应该就可以回来了。  
+5.其他的同学也应该尝试的去上面回答一下问题，Stack Overflow的Reputation也是一个非常重要的点！
 
 #### Zhihu Ranking (weight ＝ 5%)
 
