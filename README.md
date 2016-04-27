@@ -1,6 +1,6 @@
 # snaillove-programmer-ranking
 
-备注：以下排行榜是为了激励大家“积累”几个对于程序员比较重要的东西，每个月会出一季排名，第一季的排名出的比较急，目前是纯手工统计数据，会写脚本自动抓取的同学可以处理下一期的排名。猿们，加油了！
+
 
 ***
 
@@ -10,14 +10,14 @@
 
 |Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking
 |---|---|---|---|---|---|---|
-|#1|ifeegoo|http://www.ifeegoo.com|39|85|N/A|15786805
-|#2|chiemy|http://chiemy.com|42|49|N/A|N/A
-|#3|arrfu|http://www.arrfu.com|34|36|N/A|N/A
-|#4|Jackwaiting|http://blog.csdn.net/zhanggang740|15|13|N/A|N/A
-|#5|fiskz|http://fiskz.com|6|12|N/A|N/A
+|#1|ifeegoo|http://www.ifeegoo.com|39|88|0|1653009
+|#2|chiemy|http://chiemy.com|42|48|0|26056286
+|#3|arrfu|http://www.arrfu.com|39|34|0|N/A
+|#4|Jackwaiting|http://blog.csdn.net/zhanggang740|18|18|N/A|N/A
+|#5|chenyunxuan|http://www.chenyunxuan.com|9|41|N/A|N/A
 |#6|misparking|http://www.misparking.com|10|N/A|N/A|N/A
-|#7|chenyunxuan|http://www.chenyunxuan.com|9|0|N/A|N/A
-|#8|iOnesmile|http://www.ionesmile.com|8|0|N/A|N/A
+|#7|fiskz|http://fiskz.com|7|12|N/A|N/A
+|#8|iOnesmile|http://www.ionesmile.com|10|14|N/A|N/A
 |#9|火爆大头菜|http://www.jianshu.com/users/f0040a970739/|2|0|N/A|N/A
 |#10|subvin|http://www.subvin.com|0|0|N/A|N/A
 |#11|luyonghe|N/A|N/A|N/A|N/A|N/A
@@ -26,20 +26,6 @@
 
 Note:
 
-1.张刚和王瑞的ID请自己声明下，到底是什么样的，大小写其实是不一样的！Jackwaiting or jackWaiting or jackwaiting? iOnesmile or ionesmile ? 这是一个问题。
-
-2.misparking:请注意下你网站的 `robots.txt`,里面的配置是禁止搜索引擎索引任何数据！
-
-3.chenyunxuan:你的Google Index为什么是0，是不是配置有问题？
-
-4.王瑞：你的博客应该是采用的chiemy的博客主题，但是有些内容还是chiemy的，注意移除掉不是自己的内容！
-
-5.大家注意自己的博客数据的备份，还有独立网站的SEO！
-
-6.建议张刚采用独立的域名，整一个独立的博客，无论是用Github来挂自己的博客，还是Wordpress + 独立服务器，都是一个不错的选择！
-
-7.陆永河：作为iOS的技术带头大哥，没有一个技术博客，是不是逼格low了点呢？赶紧整起来！
-
 **个人的技术博客的积累是非常非常的重要，不仅是记录你平时工作或者其它方面的总结，也是你个人能力的一种体现，还有就是“让别人看到”你的能力！**
 
 
@@ -47,7 +33,7 @@ Note:
 
 #### Season One (2016/01/21 - 2016/04/27)
 
-|Total Ranking|Id|followers|Starred|Following|Organizations|Last Year Contributons|Longest Streak|Current Streak|Repositories|Stars Per Repository    
+|Total Ranking|ID|followers|Starred|Following|Organizations|Last Year Contributons|Longest Streak|Current Streak|Repositories|Stars Per Repository    
 |---|---|---|---|---|---|---|---|---|---|---|    
 |#1|[@chiemy](https://www.github.com/chiemy)|103|215|16|3|229|9 days|0 days|146|7.56164383562    
 |#2|[@jackwaiting](https://www.github.com/jackwaiting)|20|29|13|3|76|5 days|2 days|16|0.9375    
@@ -71,7 +57,7 @@ Note:
 
 #### Season 2nd (2016/01/21 - 2016/04/27)
 
-|Total Ranking|id|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
+|Total Ranking|ID|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
 |---|---|---|---|---|---|---|---|---|---|    
 |#1|[@2531888/ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|790|1|4|17|54|3|~228k|top 29% this quarter    
 |#2|[@5471377/arrfu](http://stackoverflow.com/users/5471377/arrfu)|29|0|0|2|2|0|~117|0    
@@ -95,7 +81,7 @@ Note:
 
 #### Season 2nd (2016/01/21 - 2016/04/27)
 
-|总排名|个人ID | 赞同数|感谢数|提问数|回答数|文章数|收藏|关注了|关注者| 专栏数|话题数|个人主页被浏览次数    
+|总排名|ID | 赞同数|感谢数|提问数|回答数|文章数|收藏|关注了|关注者| 专栏数|话题数|个人主页被浏览次数    
 |---|---|---|---|---|---|---|---|---|---|---|---|---|    
 |#1|[@ifeegoo](https://www.zhihu.com/people/ifeegoo)|10916|2228|6|32|0|8|64|359|24|78 |668    
 |#2|[@iOnesmile](https://www.zhihu.com/people/iOnesmile)|9|1|0|3|0|5|3|4|1|12 |77    
@@ -116,6 +102,8 @@ Note:
 
 
 ***
+备注：以下排行榜是为了激励大家“积累”几个对于程序员比较重要的东西，每个月会出一季排名，第一季的排名出的比较急，目前是纯手工统计数据，会写脚本自动抓取的同学可以处理下一期的排名。猿们，加油了！
+
 ### Blog Ranking  (weight ＝ 50%)
 
 #### Season One (? - 2016/01/20)
