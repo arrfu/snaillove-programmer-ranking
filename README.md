@@ -1,6 +1,8 @@
 # snaillove-programmer-ranking
 
 ***
+## Season 2nd Snaillove Programmer Ranking
+
 本期程序猿排行榜已出，本次的排行榜除了博客的由[@ifeegoo](http://github.com/ifeegoo)整理之外，其他的全部由我们的[@subvin](http://github.com/subvin)同学通过Python脚本全自动抓取，并且生成排行榜列表，具体代码可以参见他的代码 [ProgrammerRanking](https://github.com/subvin/ProgrammerRanking)，我们这里给[@subvin](http://github.com/subvin)同学一个大大的赞！
 
 温馨提醒大家：  
@@ -132,6 +134,8 @@ Note:
 
 
 ***
+## Season 1st Snaillove Programmer Ranking
+
 备注：以下排行榜是为了激励大家“积累”几个对于程序员比较重要的东西，每个月会出一季排名，第一季的排名出的比较急，目前是纯手工统计数据，会写脚本自动抓取的同学可以处理下一期的排名。猿们，加油了！
 
 ### Blog Ranking  (weight ＝ 50%)
