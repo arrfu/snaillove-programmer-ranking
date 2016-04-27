@@ -19,7 +19,7 @@
 
 非常、非常、非常、非常、非常、非常、非常、非常、非常、非常重要的事情，说10遍！
 
-### Blog Ranking  (weight ＝ 50%)
+### Blog Ranking
 
 #### Season One (? - 2016/01/20)
 
@@ -47,7 +47,7 @@ Note:
 
 **个人的技术博客的积累是非常非常的重要，不仅是记录你平时工作或者其它方面的总结，也是你个人能力的一种体现，还有就是“让别人看到”你的能力！**
 
-#### Github Ranking (weight ＝ 25%)
+#### Github Ranking
 
 #### Season One (2016/01/21 - 2016/04/27)
 
@@ -75,7 +75,7 @@ Note:
 
 **Linus大神说过“Talk is cheap,show me the code!”，所以Github就是用来 show me the code 的！**
 
-#### Stack Overflow Ranking (weight ＝ 20%)
+#### Stack Overflow Ranking
 
 #### Season 2nd (2016/01/21 - 2016/04/27)
 
@@ -104,7 +104,7 @@ Note:
 
 **听说过这样的一句话：在国外，Stack Overflow 上的Reputation值，在面试的过程中，是硬通货！虽然有些夸张，但也说明了你在Stack Overflow社区的影响力，对你自己本身的影响！Stack Overflow 上的Reputation值，既是你技术能力的体现，也是你English能力的展现，English能力是程序员最重要的能力之一！**
 
-#### Zhihu Ranking (weight ＝ 5%)
+#### Zhihu Ranking
 
 #### Season 2nd (2016/01/21 - 2016/04/27)
 
