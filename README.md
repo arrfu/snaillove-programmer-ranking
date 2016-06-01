@@ -11,15 +11,15 @@
 
 |Total Ranking|Id|followers|Starred|Following|Organizations|Repositories|Stars Per Repository    
 |---|---|---|---|---|---|---|---|    
-|#1|[@chiemy](https://www.github.com/chiemy)|104|238|16|3|149|7.59731543624    
+|#1|[@chiemy](https://www.github.com/chiemy)|104|238|16|3|149|7.6 
 |#2|[@ifeegoo](https://www.github.com/ifeegoo)|40|518|99|8|5|1.4    
 |#3|[@jackwaiting](https://www.github.com/jackwaiting)|19|34|14|3|17|1.0    
 |#4|[@wfiskz](https://www.github.com/wfiskz)|11|113|12|3|5|0.4    
 |#5|[@subvin](https://www.github.com/subvin)|8|12|11|3|20|0.3    
 |#6|[@chenyunxuan](https://www.github.com/chenyunxuan)|14|10|18|3|8|0.25    
-|#7|[@arrfu](https://www.github.com/arrfu)|5|28|14|3|17|0.235294117647    
-|#8|[@lewanny](https://www.github.com/lewanny)|3|4|3|3|9|0.222222222222    
-|#9|[@misparking](https://www.github.com/misparking)|7|25|17|3|35|0.0857142857143    
+|#7|[@arrfu](https://www.github.com/arrfu)|5|28|14|3|17|0.24  
+|#8|[@lewanny](https://www.github.com/lewanny)|3|4|3|3|9|0.22 
+|#9|[@misparking](https://www.github.com/misparking)|7|25|17|3|35|0.09
 |#10|[@iOnesmile](https://www.github.com/iOnesmile)|8|36|13|4|15|0.0    
 |#11|[@luyonghe](https://www.github.com/luyonghe)|5|0|4|2|5|0.0    
 |#12|[@huangshuhan](https://www.github.com/huangshuhan)|3|0|0|2|8|0.0    
@@ -31,19 +31,19 @@
 
 |Total Ranking|id|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
 |---|---|---|---|---|---|---|---|---|---|    
-|#1|[@[]](http://stackoverflow.com/users/2531888/ifeegoo)|850|1|4|17|54|3|~242k|1    
-|#2|[@[]](http://stackoverflow.com/users/5471377/arrfu)|64|0|0|5|6|1|~275|0    
-|#3|[@[]](http://stackoverflow.com/users/5469727/chenyunxuan)|8|0|0|2|0|1|~25|0    
-|#4|[@[]](http://stackoverflow.com/users/5470510/ionesmile)|1|0|0|2|0|1|~51|0    
-|#5|[@[]](http://stackoverflow.com/users/5470345/jackwaiting)|1|0|0|2|0|0|0|0    
-|#6|[@[]](http://stackoverflow.com/users/5299868/misparking)|1|0|0|1|0|0|0|0    
-|#7|[@[]](http://stackoverflow.com/users/6126930/lanjay)|1|0|0|1|0|0|0|0    
-|#8|[@[]](http://stackoverflow.com/users/2744948/chiemy)|1|0|0|0|2|0|0|0    
-|#9|[@[]](http://stackoverflow.com/users/5469824/fiskz)|1|0|0|0|0|0|0|0    
-|#10|[@[]](http://stackoverflow.com/users/5467900/subvin)|1|0|0|0|0|0|0|0    
-|#11|[@[]](http://stackoverflow.com/users/5482463/yonghelu)|1|0|0|0|0|0|0|0    
-|#12|[@[]](http://stackoverflow.com/users/6092271/lihongyuan)|1|0|0|0|0|0|0|0    
-|#13|[@[]](http://stackoverflow.com/users/6143536/huangshuhan)|1|0|0|0|0|0|0|0    
+|#1|[@ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|850|1|4|17|54|3|~242k|1    
+|#2|[@arrfu](http://stackoverflow.com/users/5471377/arrfu)|64|0|0|5|6|1|~275|0    
+|#3|[@chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|8|0|0|2|0|1|~25|0    
+|#4|[@ionesmile](http://stackoverflow.com/users/5470510/ionesmile)|1|0|0|2|0|1|~51|0    
+|#5|[@jackwaiting](http://stackoverflow.com/users/5470345/jackwaiting)|1|0|0|2|0|0|0|0    
+|#6|[@misparking](http://stackoverflow.com/users/5299868/misparking)|1|0|0|1|0|0|0|0    
+|#7|[@lanjay](http://stackoverflow.com/users/6126930/lanjay)|1|0|0|1|0|0|0|0    
+|#8|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|1|0|0|0|2|0|0|0    
+|#9|[@fiskz](http://stackoverflow.com/users/5469824/fiskz)|1|0|0|0|0|0|0|0    
+|#10|[@subvin](http://stackoverflow.com/users/5467900/subvin)|1|0|0|0|0|0|0|0    
+|#11|[@yonghelu](http://stackoverflow.com/users/5482463/yonghelu)|1|0|0|0|0|0|0|0    
+|#12|[@lihongyuan](http://stackoverflow.com/users/6092271/lihongyuan)|1|0|0|0|0|0|0|0    
+|#13|[@huangshuhan](http://stackoverflow.com/users/6143536/huangshuhan)|1|0|0|0|0|0|0|0    
 
 #### Zhihu Ranking
 
