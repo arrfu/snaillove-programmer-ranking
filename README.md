@@ -49,21 +49,21 @@
 
 #### Season 3rd (2016/05/01 - 2016/05/31)
 
-|总排名|ID | 赞同数|感谢数|提问数|回答数|文章数|收藏|关注了|关注者| 专栏数|话题数|个人主页被浏览次数    
+|总排名|个人ID | 赞同数|感谢数|提问数|回答数|文章数|收藏|关注了|关注者| 专栏数|话题数|被浏览次数    
 |---|---|---|---|---|---|---|---|---|---|---|---|---|    
-|#1|[@ifeegoo](https://www.zhihu.com/people/ifeegoo)|10916|2228|6|32|0|8|64|359|24|78 |668    
-|#2|[@iOnesmile](https://www.zhihu.com/people/iOnesmile)|9|1|0|3|0|5|3|4|1|12 |77    
-|#3|[@arrfu](https://www.zhihu.com/people/arrfu)|2|3|4|3|0|0|9|6|0|33 |56    
-|#4|[@subvin](https://www.zhihu.com/people/subvin)|1|1|0|2|0|0|10|5|0|28 |29    
-|#5|[@wfiskz](https://www.zhihu.com/people/wfiskz)|1|0|1|6|0|0|5|6|0|50 |58    
-|#6|[@Jackwaiting](https://www.zhihu.com/people/Jackwaiting)|1|0|1|3|0|0|1|3|0|9 |100    
-|#7|[@chenyunxuan](https://www.zhihu.com/people/chen-yun-xuan-29)|0|0|0|0|0|1|9|8|0|36 |58    
-|#8|[@chiemy](https://www.zhihu.com/people/chiemy)|0|0|0|0|0|4|4|3|1|17 |37    
-|#9|[@misparking](https://www.zhihu.com/people/misparking)|0|0|0|0|0|0|2|3|1|11 |31    
-|#10|[@yonghelu](https://www.zhihu.com/people/yonghelu)|0|0|0|0|0|0|0|2|0|8 |15    
-|#11|[@lihongyuan](https://www.zhihu.com/people/li-hong-yuan-54)|0|0|0|0|0|0|0|1|0|2 |9    
-|#12|[@huangshuhan](https://www.zhihu.com/people/huangshuhan)|0|0|0|0|0|0|1|1|0|3 |15    
-|#13|[@lanjie](https://www.zhihu.com/people/lan-jie-82-66)|0|0|0|0|0|0|1|1|0|8 |13    
+|#1|[@ifeegoo](https://www.zhihu.com/people/ifeegoo)|11198|2298|6|43|0|8|69|377|26|80 |822    
+|#2|[@iOnesmile](https://www.zhihu.com/people/iOnesmile)|10|3|0|3|0|5|6|5|1|12 |88    
+|#3|[@arrfu](https://www.zhihu.com/people/arrfu)|4|3|4|4|0|0|9|6|0|34 |65    
+|#4|[@wfiskz](https://www.zhihu.com/people/wfiskz)|2|0|1|6|0|0|5|7|1|51 |69    
+|#5|[@subvin](https://www.zhihu.com/people/subvin)|1|1|0|2|0|0|11|5|0|30 |38    
+|#6|[@Jackwaiting](https://www.zhihu.com/people/Jackwaiting)|1|0|1|3|0|0|1|4|0|9 |111    
+|#7|[@chenyunxuan](https://www.zhihu.com/people/chenyunxuan)|0|0|0|0|0|1|11|9|0|36 |67    
+|#8|[@chiemy](https://www.zhihu.com/people/chiemy)|0|0|0|1|0|5|4|3|1|18 |45    
+|#9|[@misparking](https://www.zhihu.com/people/misparking)|0|0|0|0|0|0|2|3|1|11 |36    
+|#10|[@yonghelu](https://www.zhihu.com/people/yonghelu)|0|0|0|0|0|0|0|2|0|8 |17    
+|#11|[@lan-jie-82-66](https://www.zhihu.com/people/lan-jie-82-66)|0|0|0|0|0|0|1|1|0|8 |24    
+|#12|[@huangshuhan](https://www.zhihu.com/people/huangshuhan)|0|0|0|0|0|0|1|1|0|3 |19    
+|#13|[@Lewanny](https://www.zhihu.com/people/Lewanny)|0|0|0|0|0|0|0|1|0|2 |15    
 
 
 ***
