@@ -21,7 +21,7 @@
 
 ### Blog Ranking
 
-#### Season One (? - 2016/01/20)
+Season 2nd (2016/01/21 - 2016/04/27)
 
 |Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking
 |---|---|---|---|---|---|---|
@@ -49,7 +49,7 @@ Note:
 
 #### Github Ranking
 
-#### Season One (2016/01/21 - 2016/04/27)
+Season 2nd (2016/01/21 - 2016/04/27)
 
 |Total Ranking|ID|Followers|Starred|Following|Organizations|Last Year Contributons|Longest Streak|Current Streak|Repositories|Stars Per Repository    
 |---|---|---|---|---|---|---|---|---|---|---|    
