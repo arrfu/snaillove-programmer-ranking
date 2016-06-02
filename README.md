@@ -5,6 +5,28 @@
 
 本期程序猿排行榜除了博客的排名之外，其他的已出，全部由我们的[@subvin](http://github.com/subvin)同学通过Python脚本全自动抓取，并且生成排行榜列表，具体代码可以参见他的代码 [ProgrammerRanking](https://github.com/subvin/ProgrammerRanking)。
 
+### Blog Ranking  (weight ＝ 50%)
+
+### Blog Ranking
+
+#### Season 3rd (2016/05/01 - 2016/05/31)
+
+|Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking
+|---|---|---|---|---|---|---|
+|#1|ifeegoo|http://www.ifeegoo.com|39|91|0|1609963
+|#2|chiemy|http://chiemy.com|45|47|0|N/A
+|#3|arrfu|http://www.arrfu.com|40|32|0|N/A
+|#4|Jackwaiting|http://blog.csdn.net/zhanggang740|18|18|N/A|N/A
+|#5|chenyunxuan|http://www.chenyunxuan.com|9|36|N/A|N/A
+|#6|iOnesmile|http://www.ionesmile.com|14|14|N/A|N/A
+|#7|fiskz|http://fiskz.com|8|13|N/A|N/A
+|#8|misparking|http://www.misparking.com|11|N/A|N/A|N/A
+|#9|火爆大头菜|http://www.jianshu.com/users/f0040a970739/|2|0|N/A|N/A
+|#10|subvin|http://www.subvin.com|0|0|N/A|N/A
+|#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A
+|#11|luyonghe|http://www.luyonghe.com|N/A|N/A|N/A|N/A
+|#13|huangshuhan|N/A|N/A|N/A|N/A|N/A
+
 #### Github Ranking
 
 #### Season 3rd (2016/05/01 - 2016/05/31)
