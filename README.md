@@ -27,6 +27,8 @@
 |#11|luyonghe|http://www.luyonghe.com|N/A|N/A|N/A|N/A
 |#13|huangshuhan|N/A|N/A|N/A|N/A|N/A
 
+备注：本月排行榜变化不大。
+
 #### Github Ranking
 
 #### Season 3rd (2016/05/01 - 2016/05/31)
@@ -46,6 +48,8 @@
 |#11|[@luyonghe](https://www.github.com/luyonghe)|5|0|4|2|5|0.0    
 |#12|[@huangshuhan](https://www.github.com/huangshuhan)|3|0|0|2|8|0.0    
 |#13|[@jarylan](https://www.github.com/jarylan)|3|1|7|2|7|0.0    
+
+备注：本月排行榜变化不大。
 
 #### Stack Overflow Ranking
 
@@ -67,6 +71,8 @@
 |#12|[@lihongyuan](http://stackoverflow.com/users/6092271/lihongyuan)|1|0|0|0|0|0|0|0    
 |#13|[@huangshuhan](http://stackoverflow.com/users/6143536/huangshuhan)|1|0|0|0|0|0|0|0    
 
+备注：[@arrfu] 的 Reputation 增长的比较多。
+
 #### Zhihu Ranking
 
 #### Season 3rd (2016/05/01 - 2016/05/31)
@@ -87,6 +93,7 @@
 |#12|[@huangshuhan](https://www.zhihu.com/people/huangshuhan)|0|0|0|0|0|0|1|1|0|3 |19    
 |#13|[@Lewanny](https://www.zhihu.com/people/Lewanny)|0|0|0|0|0|0|0|1|0|2 |15    
 
+备注：本月排行榜变化不大。
 
 ***
 ## Season 2nd Snaillove Programmer Ranking
