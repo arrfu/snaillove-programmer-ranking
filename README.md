@@ -13,7 +13,7 @@
 
 |Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking|Impact
 |---|---|---|---|---|---|---|---|
-|#1|Jackwaiting|http://blog.csdn.net/zhanggang740|24|26|N/A|N/A|4
+|#1|JackWaiting|http://www.jackwaiting.com|24|26|N/A|N/A|4
 |#2|ifeegoo|http://www.ifeegoo.com|39|87|0|1529305|2
 |#3|chiemy|http://chiemy.com|45|49|0|N/A|2
 |#4|arrfu|http://www.arrfu.com|40|31|0|N/A|2
