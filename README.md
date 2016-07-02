@@ -1,6 +1,105 @@
 # snaillove-programmer-ranking
 
 ***
+## Season 4nd Snaillove Programmer Ranking
+
+本期程序猿排行榜的数据统计由[subvin](http://github.com/subvin)和[ifeegoo](http://github.com/ifeegoo)统计完成。
+
+### Blog Ranking  (weight ＝ 50%)
+
+### Blog Ranking
+
+#### Season 3rd (Before 2016/06/31)
+
+|Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking|Impact
+|---|---|---|---|---|---|---|---|
+|#1|Jackwaiting|http://blog.csdn.net/zhanggang740|24|26|N/A|N/A|4
+|#2|ifeegoo|http://www.ifeegoo.com|39|87|0|1529305|2
+|#3|chiemy|http://chiemy.com|45|49|0|N/A||2
+|#4|arrfu|http://www.arrfu.com|40|31|0|N/A|2
+|#5|chenyunxuan|http://www.chenyunxuan.com|?|3|N/A|N/A|2
+|#6|iOnesmile|http://www.ionesmile.com|15|19|N/A|N/A|2
+|#7|fiskz|http://fiskz.com|8|13|N/A|N/A|2
+|#8|misparking|http://www.misparking.com|12|N/A|N/A|N/A|2
+|#9|Lewanny|http://www.jianshu.com/users/f0040a970739/|4|0|N/A|N/A|1
+|#10|subvin|http://www.subvin.com|0|0|N/A|N/A|0
+|#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A|0
+|#11|luyonghe|http://www.luyonghe.com|N/A|N/A|N/A|N/A|0
+|#13|huangshuhan|N/A|N/A|N/A|N/A|N/A|0
+
+备注：本月博客排行榜新加入了Impact参数，目前主要是针对文章质量和文章传播等因素的一个综合评估。这个是一个最重要的一个排名参数，
+本期[JackWaiting](http://github.com/JackWaiting)增幅较大，排名第一，其他的无较大变化。
+
+#### Github Ranking
+
+#### Season 3rd (Before 2016/06/31)
+
+|Total Ranking|Id|followers|Starred|Following|Organizations|Repositories|Stars Per Repository|contribution
+|---|---|---|---|---|---|---|---|---|---|
+|#3|[@JackWaiting](https://www.github.com/jackwaiting)|20|40|15|3|19|1.5|7
+|#4|[@Lewanny](https://www.github.com/Lewanny)|3|6|3|3|8|0.4|3
+|#9|[@iOnesmile](https://www.github.com/iOnesmile)|8|37|13|4|16|0.2|3
+|#1|[@chiemy](https://www.github.com/chiemy)|106|274|16|3|152|7.6|2
+|#2|[@ifeegoo](https://www.github.com/ifeegoo)|42|553|101|8|2|4.0|2
+|#5|[@wfiskz](https://www.github.com/wfiskz)|11|113|12|3|6|0.3|2
+|#6|[@subvin](https://www.github.com/subvin)|10|17|11|3|23|0.3|2
+|#7|[@arrfu](https://www.github.com/arrfu)|5|35|15|3|19|0.3|2
+|#10|[@misparking](https://www.github.com/misparking)|7|27|17|3|36|0.1|2
+|#8|[@chenyunxuan](https://www.github.com/chenyunxuan)|12|11|17|3|8|0.3|1
+|#11|[@luyonghe](https://www.github.com/luyonghe)|5|0|4|2|5|0|1
+|#12|[@huangshuhan](https://www.github.com/huangshuhan)|3|0|0|3|10|0|1
+|#13|[@jarylan](https://www.github.com/jarylan)|3|4|7|3|7|0.0|1
+
+备注：本月新引入了一个Contribution参数，这个主要是针对当前我们几个重要的公共组织中的仓库的贡献，这个的比重加大。目前[JackWaiting](http://github.com/JackWaiting)  [Lewanny](https://www.github.com/Lewanny)  [iOneSmile](http://github.com/iOneSmile)排名前三位！
+
+#### Stack Overflow Ranking
+
+#### Season 3rd  (Before 2016/06/31)
+
+|Total Ranking|id|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
+|---|---|---|---|---|---|---|---|---|---|    
+|#1|[@ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|915|1|6|17|54|3|~254k|0    
+|#2|[@arrfu](http://stackoverflow.com/users/5471377/arrfu)|92|0|0|5|13|1|~427|0    
+|#3|[@ionesmile](http://stackoverflow.com/users/5470510/ionesmile)|26|0|0|3|2|1|~97|0    
+|#4|[@chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|8|0|0|2|0|1|~26|0    
+|#5|[@jackwaiting](http://stackoverflow.com/users/5470345/jackwaiting)|1|0|0|2|0|0|0|0    
+|#6|[@misparking](http://stackoverflow.com/users/5299868/misparking)|1|0|0|1|0|0|0|0    
+|#7|[@lanjay](http://stackoverflow.com/users/6126930/lanjay)|1|0|0|1|0|0|0|0    
+|#8|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|1|0|0|0|2|0|0|0    
+|#9|[@fiskz](http://stackoverflow.com/users/5469824/fiskz)|1|0|0|0|0|0|0|0    
+|#10|[@subvin](http://stackoverflow.com/users/5467900/subvin)|1|0|0|0|0|0|0|0    
+|#11|[@yonghelu](http://stackoverflow.com/users/5482463/yonghelu)|1|0|0|0|0|0|0|0    
+|#12|[@lihongyuan](http://stackoverflow.com/users/6092271/lihongyuan)|1|0|0|0|0|0|0|0    
+|#13|[@huangshuhan](http://stackoverflow.com/users/6143536/huangshuhan)|1|0|0|0|0|0|0|0    
+
+
+备注：[@arrfu](http://stackoverflow.com/users/5471377/arrfu) 和 [@ionesmile](http://stackoverflow.com/users/5470510/ionesmile) 的Reputation 增长的比较多。
+
+#### Zhihu Ranking
+
+#### Season 3rd (Before 2016/06/31)
+
+|总排名|个人ID | 赞同数|感谢数|提问数|回答数|文章数|收藏|关注了|关注者| 专栏数|话题数|被浏览次数    
+|---|---|---|---|---|---|---|---|---|---|---|---|---|    
+|#1|[@ifeegoo](https://www.zhihu.com/people/ifeegoo)|11336|2336|6|45|0|9|69|385|26|80 |905    
+|#2|[@iOnesmile](https://www.zhihu.com/people/iOnesmile)|10|3|0|3|0|5|8|6|1|12 |94    
+|#3|[@arrfu](https://www.zhihu.com/people/arrfu)|4|3|4|4|0|0|9|6|0|34 |72    
+|#4|[@subvin](https://www.zhihu.com/people/subvin)|2|1|0|2|0|0|11|5|0|30 |41    
+|#5|[@wfiskz](https://www.zhihu.com/people/wfiskz)|2|0|1|6|0|0|5|7|1|51 |72    
+|#6|[@jackwaiting](https://www.zhihu.com/people/jackwaiting)|1|0|1|3|0|0|1|4|0|9 |117    
+|#7|[@chiemy](https://www.zhihu.com/people/chiemy)|0|0|0|1|0|5|4|3|1|18 |51    
+|#8|[@misparking](https://www.zhihu.com/people/misparking)|0|0|0|0|0|0|2|3|1|11 |39    
+|#9|[@yonghelu](https://www.zhihu.com/people/yonghelu)|0|0|0|0|0|0|0|2|0|8 |20    
+|#10|[@chenyunxuan](https://www.zhihu.com/people/chenyunxuan)|0|0|0|0|0|1|11|10|0|36 |70    
+|#11|[@lan-jie-82-66](https://www.zhihu.com/people/lan-jie-82-66)|0|0|0|0|0|0|1|1|0|8 |27    
+|#12|[@huangshuhan](https://www.zhihu.com/people/huangshuhan)|0|0|0|0|1|0|1|1|0|3 |23    
+|#13|[@Lewanny](https://www.zhihu.com/people/Lewanny)|0|0|0|0|0|0|1|1|0|4 |16    
+
+备注：本月排行榜变化不大。
+
+***
+
+***
 ## Season 3nd Snaillove Programmer Ranking
 
 本期程序猿排行榜除了博客的排名之外，其他的已出，全部由我们的[@subvin](http://github.com/subvin)同学通过Python脚本全自动抓取，并且生成排行榜列表，具体代码可以参见他的代码 [ProgrammerRanking](https://github.com/subvin/ProgrammerRanking)。
