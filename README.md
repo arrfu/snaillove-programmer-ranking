@@ -9,13 +9,13 @@
 
 ### Blog Ranking
 
-#### Season 3rd (Before 2016/06/31)
+#### Season 4th (Before 2016/06/31)
 
 |Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking|Impact
 |---|---|---|---|---|---|---|---|
 |#1|Jackwaiting|http://blog.csdn.net/zhanggang740|24|26|N/A|N/A|4
 |#2|ifeegoo|http://www.ifeegoo.com|39|87|0|1529305|2
-|#3|chiemy|http://chiemy.com|45|49|0|N/A||2
+|#3|chiemy|http://chiemy.com|45|49|0|N/A|2
 |#4|arrfu|http://www.arrfu.com|40|31|0|N/A|2
 |#5|chenyunxuan|http://www.chenyunxuan.com|?|3|N/A|N/A|2
 |#6|iOnesmile|http://www.ionesmile.com|15|19|N/A|N/A|2
@@ -32,7 +32,7 @@
 
 #### Github Ranking
 
-#### Season 3rd (Before 2016/06/31)
+#### Season 4th (Before 2016/06/31)
 
 |Total Ranking|Id|followers|Starred|Following|Organizations|Repositories|Stars Per Repository|contribution
 |---|---|---|---|---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 
 #### Stack Overflow Ranking
 
-#### Season 3rd  (Before 2016/06/31)
+#### Season 4th  (Before 2016/06/31)
 
 |Total Ranking|id|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
 |---|---|---|---|---|---|---|---|---|---|    
@@ -77,7 +77,7 @@
 
 #### Zhihu Ranking
 
-#### Season 3rd (Before 2016/06/31)
+#### Season 4th (Before 2016/06/31)
 
 |总排名|个人ID | 赞同数|感谢数|提问数|回答数|文章数|收藏|关注了|关注者| 专栏数|话题数|被浏览次数    
 |---|---|---|---|---|---|---|---|---|---|---|---|---|    
