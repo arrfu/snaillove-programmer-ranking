@@ -1,7 +1,7 @@
 # snaillove-programmer-ranking
 
 ***
-## Season 4nd Snaillove Programmer Ranking
+## Season 4th Snaillove Programmer Ranking
 
 本期程序猿排行榜的数据统计由[subvin](http://github.com/subvin)和[ifeegoo](http://github.com/ifeegoo)统计完成。
 
@@ -100,7 +100,7 @@
 ***
 
 ***
-## Season 3nd Snaillove Programmer Ranking
+## Season 3rd Snaillove Programmer Ranking
 
 本期程序猿排行榜除了博客的排名之外，其他的已出，全部由我们的[@subvin](http://github.com/subvin)同学通过Python脚本全自动抓取，并且生成排行榜列表，具体代码可以参见他的代码 [ProgrammerRanking](https://github.com/subvin/ProgrammerRanking)。
 
