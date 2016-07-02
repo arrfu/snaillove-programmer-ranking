@@ -36,16 +36,16 @@
 
 |Total Ranking|Id|followers|Starred|Following|Organizations|Repositories|Stars Per Repository|contribution
 |---|---|---|---|---|---|---|---|---|---|
-|#3|[@JackWaiting](https://www.github.com/jackwaiting)|20|40|15|3|19|1.5|7
-|#4|[@Lewanny](https://www.github.com/Lewanny)|3|6|3|3|8|0.4|3
-|#9|[@iOnesmile](https://www.github.com/iOnesmile)|8|37|13|4|16|0.2|3
-|#1|[@chiemy](https://www.github.com/chiemy)|106|274|16|3|152|7.6|2
-|#2|[@ifeegoo](https://www.github.com/ifeegoo)|42|553|101|8|2|4.0|2
-|#5|[@wfiskz](https://www.github.com/wfiskz)|11|113|12|3|6|0.3|2
-|#6|[@subvin](https://www.github.com/subvin)|10|17|11|3|23|0.3|2
-|#7|[@arrfu](https://www.github.com/arrfu)|5|35|15|3|19|0.3|2
-|#10|[@misparking](https://www.github.com/misparking)|7|27|17|3|36|0.1|2
-|#8|[@chenyunxuan](https://www.github.com/chenyunxuan)|12|11|17|3|8|0.3|1
+|#1|[@JackWaiting](https://www.github.com/jackwaiting)|20|40|15|3|19|1.5|7
+|#2|[@Lewanny](https://www.github.com/Lewanny)|3|6|3|3|8|0.4|3
+|#3|[@iOnesmile](https://www.github.com/iOnesmile)|8|37|13|4|16|0.2|3
+|#4|[@chiemy](https://www.github.com/chiemy)|106|274|16|3|152|7.6|2
+|#5|[@ifeegoo](https://www.github.com/ifeegoo)|42|553|101|8|2|4.0|2
+|#6|[@wfiskz](https://www.github.com/wfiskz)|11|113|12|3|6|0.3|2
+|#7|[@subvin](https://www.github.com/subvin)|10|17|11|3|23|0.3|2
+|#8|[@arrfu](https://www.github.com/arrfu)|5|35|15|3|19|0.3|2
+|#9|[@misparking](https://www.github.com/misparking)|7|27|17|3|36|0.1|2
+|#10|[@chenyunxuan](https://www.github.com/chenyunxuan)|12|11|17|3|8|0.3|1
 |#11|[@luyonghe](https://www.github.com/luyonghe)|5|0|4|2|5|0|1
 |#12|[@huangshuhan](https://www.github.com/huangshuhan)|3|0|0|3|10|0|1
 |#13|[@jarylan](https://www.github.com/jarylan)|3|4|7|3|7|0.0|1
