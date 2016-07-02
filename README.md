@@ -9,7 +9,7 @@
 
 ### Blog Ranking
 
-#### Season 4th (Before 2016/06/31)
+#### Season 4th (Before 2016/06/30)
 
 |Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking|Impact
 |---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 
 #### Github Ranking
 
-#### Season 4th (Before 2016/06/31)
+#### Season 4th (Before 2016/06/30)
 
 |Total Ranking|Id|followers|Starred|Following|Organizations|Repositories|Stars Per Repository|contribution
 |---|---|---|---|---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 
 #### Stack Overflow Ranking
 
-#### Season 4th  (Before 2016/06/31)
+#### Season 4th  (Before 2016/06/30)
 
 |Total Ranking|id|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
 |---|---|---|---|---|---|---|---|---|---|    
@@ -77,7 +77,7 @@
 
 #### Zhihu Ranking
 
-#### Season 4th (Before 2016/06/31)
+#### Season 4th (Before 2016/06/30)
 
 |总排名|个人ID | 赞同数|感谢数|提问数|回答数|文章数|收藏|关注了|关注者| 专栏数|话题数|被浏览次数    
 |---|---|---|---|---|---|---|---|---|---|---|---|---|    
