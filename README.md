@@ -26,6 +26,8 @@
 |#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A|0
 |#11|luyonghe|http://www.luyonghe.com|N/A|N/A|N/A|N/A|0
 |#13|huangshuhan|N/A|N/A|N/A|N/A|N/A|0
+|#14|sunshore|http://sunshore.applinzi.com|N/A|N/A|N/A|N/A|0
+|#15|HelloZihan|http://www.cnblogs.com/HelloZihan|N/A|N/A|N/A|N/A|0
 
 备注：本月博客排行榜新加入了Impact参数，目前主要是针对文章质量和文章传播等因素的一个综合评估。这个是一个最重要的一个排名参数，
 本期[JackWaiting](http://github.com/JackWaiting)增幅较大，排名第一，其他的无较大变化。
