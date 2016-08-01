@@ -3,11 +3,9 @@
 ***
 ## Season 5th Snaillove Programmer Ranking
 
-本期程序猿排行榜的数据统计由[subvin](http://github.com/subvin)和[ifeegoo](http://github.com/ifeegoo)统计完成。
+本期程序猿排行榜的数据统计由 [subvin](http://github.com/subvin) 和 [ifeegoo](http://github.com/ifeegoo) 统计完成。
 
 ### Blog Ranking  (weight ＝ 50%)
-
-### Blog Ranking
 
 #### Season 5th (Before 2016/07/31)
 
@@ -16,28 +14,44 @@
 |#1|JackWaiting|http://www.jackwaiting.com|24|26|N/A|N/A|4
 |#2|ifeegoo|http://www.ifeegoo.com|39|87|0|1529305|2
 |#3|chiemy|http://chiemy.com|45|49|0|N/A|2
-|#4|arrfu|http://www.arrfu.com|40|31|0|N/A|2
-|#5|chenyunxuan|http://www.chenyunxuan.com|?|3|N/A|N/A|2
+|#4|arrfu|http://www.arrfu.com|42|34|0|N/A|2
 |#6|iOnesmile|http://www.ionesmile.com|15|19|N/A|N/A|2
 |#7|fiskz|http://fiskz.com|8|13|N/A|N/A|2
 |#8|misparking|http://www.misparking.com|12|N/A|N/A|N/A|2
 |#9|Lewanny|http://www.jianshu.com/users/f0040a970739/|4|0|N/A|N/A|1
 |#10|subvin|http://www.subvin.com|0|0|N/A|N/A|0
 |#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A|0
+|#5|chenyunxuan|http://www.chenyunxuan.com|?|0|N/A|N/A|0
 |#11|luyonghe|http://www.luyonghe.com|N/A|N/A|N/A|N/A|0
 |#13|huangshuhan|N/A|N/A|N/A|N/A|N/A|0
 |#14|sunshore|http://sunshore.applinzi.com|N/A|N/A|N/A|N/A|0
 |#15|HelloZihan|http://www.cnblogs.com/HelloZihan|N/A|N/A|N/A|N/A|0
 
-备注：本月博客排行榜新加入了Impact参数，目前主要是针对文章质量和文章传播等因素的一个综合评估。这个是一个最重要的一个排名参数，
-本期[JackWaiting](http://github.com/JackWaiting)增幅较大，排名第一，其他的无较大变化。
+备注：
 
 #### Github Ranking
 
 #### Season 5th (Before 2016/07/31)
 
+|Total Ranking|Id|followers|Starred|Following|Organizations|Repositories|Stars Per Repository|Contribution    
+|---|---|---|---|---|---|---|---|---|
+|#1|[@jackwaiting](https://www.github.com/jackwaiting)|23|49|15|3|19|1.58|6          
+|#2|[@ifeegoo](https://www.github.com/ifeegoo)|46|573|110|8|3|2.67|4      
+|#3|[@wfiskz](https://www.github.com/wfiskz)|11|132|14|3|7|1.57|4
+|#4|[@subvin](https://www.github.com/subvin)|10|23|11|3|25|0.84|3
+|#5|[@iOnesmile](https://www.github.com/iOnesmile)|9|43|13|4|17|0.24|3
+|#6|[@jarylan](https://www.github.com/jarylan)|4|6|8|3|9|0.0|3 
+|#7|[@chiemy](https://www.github.com/chiemy)|108|294|16|3|153|7.75|2
+|#8|[@misparking](https://www.github.com/misparking)|9|29|18|3|36|0.08|2  
+|#9|[@Lewanny](https://www.github.com/Lewanny)|3|7|3|3|7|0.86|1       
+|#10|[@arrfu](https://www.github.com/arrfu)|5|45|16|3|20|0.45|1
+|#11|[@luyonghe](https://www.github.com/luyonghe)|5|0|4|2|5|0.0|1    
+|#12|[@chenyunxuan](https://www.github.com/chenyunxuan)|12|11|17|3|8|0.25|0    
+|#13|[@huangshuhan](https://www.github.com/huangshuhan)|3|0|0|3|11|0.0|0    
+|#14|[@HelloZihan](https://www.github.com/HelloZihan)|1|0|0|3|29|0.0|0    
+|#15|[@sunshore](https://www.github.com/sunshore)|1|0|0|3|1|0.0|0    
 
-备注：本月新引入了一个Contribution参数，这个主要是针对当前我们几个重要的公共组织中的仓库的贡献，这个的比重加大。目前[JackWaiting](http://github.com/JackWaiting)  [Lewanny](https://www.github.com/Lewanny)  [iOneSmile](http://github.com/iOneSmile)排名前三位！
+备注：本期 GitHub 综合排名，[@wfiskz](https://www.github.com/wfiskz) [@subvin](https://www.github.com/subvin) 排名增长。
 
 #### Stack Overflow Ranking
 
@@ -61,7 +75,7 @@
 |#14|[@huangshuhan](http://stackoverflow.com/users/6143536/huangshuhan)|1|0|0|0|0|0|0|0    
 |#15|[@hellozihan](http://stackoverflow.com/users/6546658/hellozihan)|1|0|0|0|0|0|0|0    
 
-备注：
+备注：[@arrfu](http://stackoverflow.com/users/5471377/arrfu) 与 [@ionesmile](http://stackoverflow.com/users/5470510/ionesmile) 保持较大增幅。
 
 #### Zhihu Ranking
 
@@ -86,8 +100,6 @@
 |#15|[@Lewanny](https://www.zhihu.com/people/Lewanny)|0|0|0|0|0|0|1|1|0|4 |16    
 
 备注：本月排行榜变化不大。
-
-***
 
 ***
 ## Season 4th Snaillove Programmer Ranking
