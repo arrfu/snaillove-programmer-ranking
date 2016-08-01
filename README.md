@@ -1,6 +1,95 @@
 # snaillove-programmer-ranking
 
 ***
+## Season 5th Snaillove Programmer Ranking
+
+本期程序猿排行榜的数据统计由[subvin](http://github.com/subvin)和[ifeegoo](http://github.com/ifeegoo)统计完成。
+
+### Blog Ranking  (weight ＝ 50%)
+
+### Blog Ranking
+
+#### Season 5th (Before 2016/07/31)
+
+|Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking|Impact
+|---|---|---|---|---|---|---|---|
+|#1|JackWaiting|http://www.jackwaiting.com|24|26|N/A|N/A|4
+|#2|ifeegoo|http://www.ifeegoo.com|39|87|0|1529305|2
+|#3|chiemy|http://chiemy.com|45|49|0|N/A|2
+|#4|arrfu|http://www.arrfu.com|40|31|0|N/A|2
+|#5|chenyunxuan|http://www.chenyunxuan.com|?|3|N/A|N/A|2
+|#6|iOnesmile|http://www.ionesmile.com|15|19|N/A|N/A|2
+|#7|fiskz|http://fiskz.com|8|13|N/A|N/A|2
+|#8|misparking|http://www.misparking.com|12|N/A|N/A|N/A|2
+|#9|Lewanny|http://www.jianshu.com/users/f0040a970739/|4|0|N/A|N/A|1
+|#10|subvin|http://www.subvin.com|0|0|N/A|N/A|0
+|#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A|0
+|#11|luyonghe|http://www.luyonghe.com|N/A|N/A|N/A|N/A|0
+|#13|huangshuhan|N/A|N/A|N/A|N/A|N/A|0
+|#14|sunshore|http://sunshore.applinzi.com|N/A|N/A|N/A|N/A|0
+|#15|HelloZihan|http://www.cnblogs.com/HelloZihan|N/A|N/A|N/A|N/A|0
+
+备注：本月博客排行榜新加入了Impact参数，目前主要是针对文章质量和文章传播等因素的一个综合评估。这个是一个最重要的一个排名参数，
+本期[JackWaiting](http://github.com/JackWaiting)增幅较大，排名第一，其他的无较大变化。
+
+#### Github Ranking
+
+#### Season 5th (Before 2016/07/31)
+
+
+备注：本月新引入了一个Contribution参数，这个主要是针对当前我们几个重要的公共组织中的仓库的贡献，这个的比重加大。目前[JackWaiting](http://github.com/JackWaiting)  [Lewanny](https://www.github.com/Lewanny)  [iOneSmile](http://github.com/iOneSmile)排名前三位！
+
+#### Stack Overflow Ranking
+
+#### Season 5th  (Before 2016/07/31)
+
+|Total Ranking|id|Reputation|Gold Badges|Silver Badges|Bronze Badges|Answers|Questions|People Reached|Have Title?    
+|---|---|---|---|---|---|---|---|---|---|    
+|#1|[@ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)|990|1|8|18|54|3|~266k|1    
+|#2|[@arrfu](http://stackoverflow.com/users/5471377/arrfu)|92|0|0|5|13|1|~463|0    
+|#3|[@ionesmile](http://stackoverflow.com/users/5470510/ionesmile)|71|0|0|3|5|1|~145|0    
+|#4|[@chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)|8|0|0|2|0|1|~28|0    
+|#5|[@jackwaiting](http://stackoverflow.com/users/5470345/jackwaiting)|1|0|0|2|0|0|0|0    
+|#6|[@misparking](http://stackoverflow.com/users/5299868/misparking)|1|0|0|1|0|0|0|0    
+|#7|[@lanjay](http://stackoverflow.com/users/6126930/lanjay)|1|0|0|1|0|0|0|0    
+|#8|[@sunshore](http://stackoverflow.com/users/6592747/sunshore)|1|0|0|1|0|0|0|0    
+|#9|[@chiemy](http://stackoverflow.com/users/2744948/chiemy)|1|0|0|0|2|0|0|0    
+|#10|[@fiskz](http://stackoverflow.com/users/5469824/fiskz)|1|0|0|0|0|0|0|0    
+|#11|[@subvin](http://stackoverflow.com/users/5467900/subvin)|1|0|0|0|0|0|0|0    
+|#12|[@yonghelu](http://stackoverflow.com/users/5482463/yonghelu)|1|0|0|0|0|0|0|0    
+|#13|[@lihongyuan](http://stackoverflow.com/users/6092271/lihongyuan)|1|0|0|0|0|0|0|0    
+|#14|[@huangshuhan](http://stackoverflow.com/users/6143536/huangshuhan)|1|0|0|0|0|0|0|0    
+|#15|[@hellozihan](http://stackoverflow.com/users/6546658/hellozihan)|1|0|0|0|0|0|0|0    
+
+备注：
+
+#### Zhihu Ranking
+
+#### Season 5th (Before 2016/07/31)
+
+|总排名|个人ID | 赞同数|感谢数|提问数|回答数|文章数|收藏|关注了|关注者| 专栏数|话题数|被浏览次数    
+|---|---|---|---|---|---|---|---|---|---|---|---|---|    
+|#1|[@ifeegoo](https://www.zhihu.com/people/ifeegoo)|14217|2779|6|46|0|9|83|517|27|83 |1033    
+|#2|[@iOnesmile](https://www.zhihu.com/people/iOnesmile)|10|4|0|3|0|5|9|6|1|12 |101    
+|#3|[@arrfu](https://www.zhihu.com/people/arrfu)|4|3|4|4|0|0|9|6|0|34 |72    
+|#4|[@subvin](https://www.zhihu.com/people/subvin)|2|1|0|2|0|0|11|5|0|30 |42    
+|#5|[@wfiskz](https://www.zhihu.com/people/wfiskz)|2|0|1|6|0|0|6|7|1|51 |72    
+|#6|[@jackwaiting](https://www.zhihu.com/people/jackwaiting)|1|1|1|3|0|0|1|4|0|9 |121    
+|#7|[@HelloZihan](https://www.zhihu.com/people/HelloZihan)|0|0|0|0|0|8|129|3|4|17 |67    
+|#8|[@chiemy](https://www.zhihu.com/people/chiemy)|0|0|0|1|0|5|4|3|1|18 |53    
+|#9|[@misparking](https://www.zhihu.com/people/misparking)|0|0|0|0|0|0|2|3|1|11 |40    
+|#10|[@yonghelu](https://www.zhihu.com/people/yonghelu)|0|0|0|0|0|0|0|2|0|8 |20    
+|#11|[@chenyunxuan](https://www.zhihu.com/people/chenyunxuan)|0|0|0|0|0|1|11|10|0|36 |70    
+|#12|[@sunshore](https://www.zhihu.com/people/sunshore)|0|0|0|0|0|0|1|1|0|2 |4    
+|#13|[@lan-jie-82-66](https://www.zhihu.com/people/lan-jie-82-66)|0|0|0|0|0|0|1|1|0|8 |28    
+|#14|[@huangshuhan](https://www.zhihu.com/people/huangshuhan)|0|0|0|0|1|0|1|1|0|3 |24    
+|#15|[@Lewanny](https://www.zhihu.com/people/Lewanny)|0|0|0|0|0|0|1|1|0|4 |16    
+
+备注：本月排行榜变化不大。
+
+***
+
+***
 ## Season 4th Snaillove Programmer Ranking
 
 本期程序猿排行榜的数据统计由[subvin](http://github.com/subvin)和[ifeegoo](http://github.com/ifeegoo)统计完成。
