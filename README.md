@@ -12,13 +12,13 @@
 |Total Rank|ID|Blog|Blog Articles|Google Index|Google PR|Alexa Ranking|Impact
 |---|---|---|---|---|---|---|---|
 |#1|JackWaiting|http://www.jackwaiting.com|24|26|N/A|N/A|4
-|#2|ifeegoo|http://www.ifeegoo.com|39|87|0|1529305|2
+|#2|ifeegoo|http://www.ifeegoo.com|39|87|0|4754536|2
 |#3|chiemy|http://chiemy.com|45|49|0|N/A|2
 |#4|arrfu|http://www.arrfu.com|42|34|0|N/A|2
-|#6|iOnesmile|http://www.ionesmile.com|15|19|N/A|N/A|2
-|#7|fiskz|http://fiskz.com|8|13|N/A|N/A|2
+|#6|iOnesmile|http://www.ionesmile.com|16|20|N/A|N/A|2
+|#7|fiskz|http://fiskz.com|9|14|N/A|N/A|2
 |#8|misparking|http://www.misparking.com|12|N/A|N/A|N/A|2
-|#9|Lewanny|http://www.jianshu.com/users/f0040a970739/|4|0|N/A|N/A|1
+|#9|Lewanny|http://www.jianshu.com/users/f0040a970739/|6|3|N/A|N/A|1
 |#10|subvin|http://www.subvin.com|0|0|N/A|N/A|0
 |#12|a_smallbird|http://blog.csdn.net/a_smallbird|N/A|N/A|N/A|N/A|0
 |#5|chenyunxuan|http://www.chenyunxuan.com|?|0|N/A|N/A|0
@@ -27,7 +27,7 @@
 |#14|sunshore|http://sunshore.applinzi.com|N/A|N/A|N/A|N/A|0
 |#15|HelloZihan|http://www.cnblogs.com/HelloZihan|N/A|N/A|N/A|N/A|0
 
-备注：
+备注：博客排名，[JackWaiting](http://www.jackwaiting.com) 依然领先，其他的排名没有较大变化。
 
 #### Github Ranking
 
